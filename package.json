@@ -1,0 +1,22 @@
+{
+  "name": "@upstatement/catalog-specimens",
+  "version": "0.1.0",
+  "description": "Custom specimens for Catalog",
+  "scripts": {
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.9",
+    "@types/react-html-parser": "^2.0.1",
+    "catalog": "^3.6.0",
+    "dayjs": "^1.8.16",
+    "react": "^16.10.2",
+    "react-dom": "^16.11.0",
+    "react-highlight.js": "^1.0.7",
+    "react-html-parser": "^2.0.2",
+    "showdown": "^1.9.0",
+    "typescript": "^3.6.4"
+  }
+}

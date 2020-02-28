@@ -1,0 +1,60 @@
+.catalog-codedocs {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  color: #000;
+  padding: 0;
+  width: 100%;
+}
+
+.catalog-codedocs p {
+  font-size: 16px;
+  line-height: 1.7rem;
+}
+
+.catalog-codedocs table {
+  border-collapse: collapse;
+  border-radius: 4px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  font-size: 15px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.catalog-codedocs thead {
+  color: #999;
+  font-weight: 500;
+}
+
+.catalog-codedocs thead td {
+  padding: 20px 20px;
+}
+
+.catalog-codedocs tbody {
+  background: transparent;
+}
+
+.catalog-codedocs tr {
+  background: transparent;
+  border-bottom: 1px solid #eee;
+}
+
+.catalog-codedocs tr:last-child {
+  border-bottom: 0;
+}
+
+
+.catalog-codedocs tbody td {
+  background: transparent;
+  padding: 25px 20px;
+  line-height: 1.4em;
+}
+
+.catalog-codedocs tbody td:first-child {
+  font-weight: 500;
+}
+
+.catalog-codedocs tbody td:nth-child(2) {
+  font-size: 15px;
+  font-weight: 400;
+}
