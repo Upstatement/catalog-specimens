@@ -14,7 +14,6 @@
  **/
 
 import React from 'react';
-// import PropTypes from 'prop-types';
 import { Specimen } from 'catalog';
 import ReactHtmlParser from 'react-html-parser';
 import showdown from 'showdown';

@@ -1,0 +1,52 @@
+.catalog-comment {
+  display: flex;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.catalog-comment .catalog-comment--author {
+  align-items: center;
+  color: #000;
+  display: flex;
+  flex: 2;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+}
+
+.catalog-comment .catalog-comment--avatar {
+  align-items: center;
+  background-color: #000;
+  border-radius: 50%;
+  color: #FFF;
+  display: flex;
+  font-size: 12px;
+  font-weight: 500;
+  height: 45px;
+  justify-content: center;
+  letter-spacing: 0.12em;
+  margin-right: 15px;
+  min-width: 45px;
+  overflow: hidden;
+  transform: translateY(-2px);
+  width: 45px;
+}
+
+.catalog-comment .catalog-comment--details {
+  color: #000;
+}
+
+.catalog-comment .catalog-comment--date {
+  color: #999;
+  font-size: 0.95em;
+}
+
+.catalog-comment .catalog-comment--text {
+  flex: 2;
+}
+
+.catalog-comment .catalog-comment--text p {
+  font-size: 16px;
+  line-height: 1.5em;
+  margin: 0;
+}

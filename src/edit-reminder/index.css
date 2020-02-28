@@ -1,0 +1,31 @@
+.catalog-reminder {
+  border: none;
+  position: fixed;
+  top: 40px;
+  right: 25px;
+}
+
+a.catalog-reminder--link {
+  background: #004cd5;
+  border-radius: 40px;
+  color: #FFF;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  min-width: 75px;
+  padding: 20px 28px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.5s;
+}
+
+a.catalog-reminder--link:visited[class*='catalog-'],
+a.catalog-reminder--link:active[class*='catalog-'],
+a.catalog-reminder--link:focus[class*='catalog-'],
+a.catalog-reminder--link:hover[class*='catalog-'] {
+  color: #FFF;
+}
+
+a.catalog-reminder--link:hover[class*='catalog-'] {
+  background: darken(#004cd5, 5%);
+}
