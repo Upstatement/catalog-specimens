@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Custom specimens for Catalog",
   "scripts": {
-    "build": "NODE_ENV=production webpack",
-    "transpile": "babel src -d dist --copy-files"
+    "build": "babel src --out-dir dist/ --no-copy-ignored; webpack; node moveFile.js",
+    "prepublish": "npm run build"
   },
   "main": "dist/index.js",
   "license": "MIT",
@@ -50,6 +50,7 @@
     "file-loader": "^4.2.0",
     "html-webpack-plugin": "^4.0.0-beta.5",
     "mini-css-extract-plugin": "^0.8.0",
+    "move-file": "^1.2.0",
     "now": "^16.4.4",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "react-docgen": "^5.0.0-beta.1",

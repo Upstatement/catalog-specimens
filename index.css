@@ -1,9 +1,0 @@
-@import 'code-docs/index';
-@import 'code-tabbed/index';
-@import 'color-block/index';
-@import 'comment/index';
-@import 'edit-reminder/index';
-
-.catalog-specimen {
-  background: transparent;
-}
