@@ -66,5 +66,14 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Upstatement/catalog-specimens.git"
+  },
+  "author": "Michael Pelletier <michael.pelletier@upstatement.com>",
+  "bugs": {
+    "url": "https://github.com/Upstatement/catalog-specimens/issues"
+  },
+  "homepage": "https://github.com/Upstatement/catalog-specimens#readme"
 }
