@@ -85,8 +85,4 @@ class CodeDocs extends React.Component {
   }
 }
 
-// CodeDocs.propTypes = {
-//   component: PropTypes.string.isRequired,
-// };
-
 export default Specimen()(CodeDocs);

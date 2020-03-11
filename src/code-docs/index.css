@@ -14,8 +14,6 @@
 
 .catalog-codedocs table {
   border-collapse: collapse;
-  border-radius: 4px;
-  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
   font-size: 15px;
   margin: 10px 0;
   width: 100%;
@@ -48,13 +46,4 @@
   background: transparent;
   padding: 25px 20px;
   line-height: 1.4em;
-}
-
-.catalog-codedocs tbody td:first-child {
-  font-weight: 500;
-}
-
-.catalog-codedocs tbody td:nth-child(2) {
-  font-size: 15px;
-  font-weight: 400;
 }

@@ -30,7 +30,6 @@
   color: black;
   cursor: pointer;
   display: flex;
-  font-family: 'Ringside Wide';
   font-size: 11px;
   letter-spacing: 0.1em;
   padding: 10px 30px;
@@ -38,7 +37,7 @@
 }
 
 .codeblock-tab-button--selected {
-  background: black;
+  background: #003B5C;
   color: white;
 }
 
@@ -52,7 +51,6 @@
   cursor: pointer;
   margin-left: auto;
   justify-self: flex-end;
-  font-family: 'Ringside Wide';
   font-size: 14px;
   padding: 10px;
   text-align: right;
@@ -61,7 +59,7 @@
 
 pre {
   color: #00263e;
-  font-family: 'Roboto Mono', monospace;
+  font-family: monospace;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;

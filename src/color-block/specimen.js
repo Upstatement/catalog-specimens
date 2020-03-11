@@ -186,6 +186,10 @@ class ColorBlock extends React.Component {
   render() {
     const { backgroundColors, foregroundColors } = this.props;
 
+    if (!backgroundColors || !foregroundColors) {
+      return null;
+    }
+
     const renderAccessibilityResults = (colorA, colorB, size) => {
       const results = this.checkColors(colorA, colorB, size);
 

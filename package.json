@@ -1,6 +1,6 @@
 {
   "name": "@upstatement/catalog-specimens",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Custom specimens for Catalog",
   "scripts": {
     "build": "babel src --out-dir dist/ --no-copy-ignored; webpack; node moveFile.js",

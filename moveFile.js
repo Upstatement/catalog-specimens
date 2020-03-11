@@ -6,7 +6,6 @@ const files = [
   'code-tabbed',
   'color-block',
   'comment',
-  'edit-reminder',
 ];
 
 files.forEach(file => {

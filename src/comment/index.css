@@ -1,12 +1,11 @@
 .catalog-comment {
-  display: flex;
   margin: 20px 0;
   width: 100%;
 }
 
 .catalog-comment .catalog-comment--author {
   align-items: center;
-  color: #000;
+  color: #003B5C;
   display: flex;
   flex: 2;
   font-size: 16px;
@@ -16,7 +15,7 @@
 
 .catalog-comment .catalog-comment--avatar {
   align-items: center;
-  background-color: #000;
+  background-color: #003B5C;
   border-radius: 50%;
   color: #FFF;
   display: flex;
