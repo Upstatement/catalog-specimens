@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Custom specimens for Catalog",
   "scripts": {
-    "build": "babel src --out-dir dist/ --no-copy-ignored; webpack; node moveFile.js",
+    "build": "babel src --out-dir dist/ --no-copy-ignored; webpack",
     "prepublish": "npm run build"
   },
   "main": "dist/index.js",
@@ -25,7 +25,6 @@
     "@babel/preset-react": "^7.6.3",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
-    "move-file": "^1.2.0",
     "mini-css-extract-plugin": "^0.8.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9"
