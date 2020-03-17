@@ -1,0 +1,5 @@
+import { __moduleExports as _baseForOwn$1 } from '../node_modules/lodash/_baseForOwn.js';
+
+
+
+export default _baseForOwn$1;

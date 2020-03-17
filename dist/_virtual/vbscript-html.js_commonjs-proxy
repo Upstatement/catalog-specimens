@@ -1,0 +1,5 @@
+import { __moduleExports as vbscriptHtml$1 } from '../node_modules/highlight.js/lib/languages/vbscript-html.js';
+
+
+
+export default vbscriptHtml$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as buffer$1 } from '../node_modules/@babel/generator/lib/buffer.js';
+
+
+
+export default buffer$1;

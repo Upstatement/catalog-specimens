@@ -1,0 +1,5 @@
+import { __moduleExports as handlers } from '../node_modules/react-docgen/dist/handlers/index.js';
+
+
+
+export default handlers;

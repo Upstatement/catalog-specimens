@@ -1,0 +1,5 @@
+import { __moduleExports as dts$1 } from '../node_modules/highlight.js/lib/languages/dts.js';
+
+
+
+export default dts$1;

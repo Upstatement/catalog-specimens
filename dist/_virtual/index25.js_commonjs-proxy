@@ -1,0 +1,5 @@
+import { __moduleExports as globals } from '../node_modules/globals/index.js';
+
+
+
+export default globals;

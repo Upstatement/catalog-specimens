@@ -1,0 +1,5 @@
+import { __moduleExports as rib$1 } from '../node_modules/highlight.js/lib/languages/rib.js';
+
+
+
+export default rib$1;

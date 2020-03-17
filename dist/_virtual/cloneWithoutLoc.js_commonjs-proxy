@@ -1,0 +1,5 @@
+import { __moduleExports as cloneWithoutLoc_1 } from '../node_modules/@babel/types/lib/clone/cloneWithoutLoc.js';
+
+
+
+export default cloneWithoutLoc_1;

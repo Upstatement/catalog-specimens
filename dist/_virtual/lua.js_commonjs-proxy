@@ -1,0 +1,5 @@
+import { __moduleExports as lua$1 } from '../node_modules/highlight.js/lib/languages/lua.js';
+
+
+
+export default lua$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as rsl$1 } from '../node_modules/highlight.js/lib/languages/rsl.js';
+
+
+
+export default rsl$1;

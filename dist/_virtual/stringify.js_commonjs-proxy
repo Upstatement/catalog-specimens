@@ -1,0 +1,5 @@
+import { __moduleExports as stringify$1 } from '../node_modules/domutils/lib/stringify.js';
+
+
+
+export default stringify$1;

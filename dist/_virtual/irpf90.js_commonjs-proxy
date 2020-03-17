@@ -1,0 +1,5 @@
+import { __moduleExports as irpf90$1 } from '../node_modules/highlight.js/lib/languages/irpf90.js';
+
+
+
+export default irpf90$1;

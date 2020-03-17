@@ -1,0 +1,5 @@
+import { __moduleExports as resolveFunctionDefinitionToReturnValue_1 } from '../node_modules/react-docgen/dist/utils/resolveFunctionDefinitionToReturnValue.js';
+
+
+
+export default resolveFunctionDefinitionToReturnValue_1;

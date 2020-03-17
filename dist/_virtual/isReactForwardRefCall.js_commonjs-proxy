@@ -1,0 +1,5 @@
+import { __moduleExports as isReactForwardRefCall_1 } from '../node_modules/react-docgen/dist/utils/isReactForwardRefCall.js';
+
+
+
+export default isReactForwardRefCall_1;

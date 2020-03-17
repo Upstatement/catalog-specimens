@@ -1,0 +1,5 @@
+import { __moduleExports as hsp$1 } from '../node_modules/highlight.js/lib/languages/hsp.js';
+
+
+
+export default hsp$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as _stackGet$1 } from '../node_modules/lodash/_stackGet.js';
+
+
+
+export default _stackGet$1;

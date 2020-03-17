@@ -1,0 +1,5 @@
+import { __moduleExports as clojureRepl$1 } from '../node_modules/highlight.js/lib/languages/clojure-repl.js';
+
+
+
+export default clojureRepl$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as asciidoc$1 } from '../node_modules/highlight.js/lib/languages/asciidoc.js';
+
+
+
+export default asciidoc$1;

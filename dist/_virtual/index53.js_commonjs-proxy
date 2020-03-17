@@ -1,0 +1,5 @@
+import { __moduleExports as parser_1 } from '../node_modules/@babel/core/lib/parser/index.js';
+
+
+
+export default parser_1;

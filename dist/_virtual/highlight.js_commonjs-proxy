@@ -1,0 +1,5 @@
+import { __moduleExports as highlight$1 } from '../node_modules/highlight.js/lib/highlight.js';
+
+
+
+export default highlight$1;

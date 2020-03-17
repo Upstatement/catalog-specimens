@@ -1,0 +1,5 @@
+import { __moduleExports as transformFile_1 } from '../node_modules/@babel/core/lib/transform-file.js';
+
+
+
+export default transformFile_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as yaml$1 } from '../node_modules/highlight.js/lib/languages/yaml.js';
+
+
+
+export default yaml$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as kotlin$1 } from '../node_modules/highlight.js/lib/languages/kotlin.js';
+
+
+
+export default kotlin$1;

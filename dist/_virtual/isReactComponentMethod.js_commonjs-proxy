@@ -1,0 +1,5 @@
+import { __moduleExports as isReactComponentMethod$1 } from '../node_modules/react-docgen/dist/utils/isReactComponentMethod.js';
+
+
+
+export default isReactComponentMethod$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as propTypeCompositionHandler_1 } from '../node_modules/react-docgen/dist/handlers/propTypeCompositionHandler.js';
+
+
+
+export default propTypeCompositionHandler_1;

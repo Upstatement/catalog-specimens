@@ -1,0 +1,5 @@
+import { __moduleExports as resolveHOC_1 } from '../node_modules/react-docgen/dist/utils/resolveHOC.js';
+
+
+
+export default resolveHOC_1;

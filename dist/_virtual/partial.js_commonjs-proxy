@@ -1,0 +1,5 @@
+import { __moduleExports as partial$1 } from '../node_modules/@babel/core/lib/config/partial.js';
+
+
+
+export default partial$1;

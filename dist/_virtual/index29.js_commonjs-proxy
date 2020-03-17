@@ -1,0 +1,5 @@
+import { __moduleExports as colorName } from '../node_modules/color-name/index.js';
+
+
+
+export default colorName;

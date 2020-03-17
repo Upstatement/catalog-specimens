@@ -1,0 +1,5 @@
+import { __moduleExports as common$1 } from '../node_modules/debug/src/common.js';
+
+
+
+export default common$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as traversal$1 } from '../node_modules/domutils/lib/traversal.js';
+
+
+
+export default traversal$1;

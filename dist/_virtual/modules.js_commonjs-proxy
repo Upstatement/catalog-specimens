@@ -1,0 +1,5 @@
+import { __moduleExports as modules$1 } from '../node_modules/@babel/generator/lib/generators/modules.js';
+
+
+
+export default modules$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as _root$1 } from '../node_modules/lodash/_root.js';
+
+
+
+export default _root$1;

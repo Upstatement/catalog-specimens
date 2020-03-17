@@ -1,0 +1,5 @@
+import { __moduleExports as files } from '../node_modules/@babel/core/lib/config/files/index.js';
+
+
+
+export default files;

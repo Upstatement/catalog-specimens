@@ -1,0 +1,5 @@
+import { __moduleExports as isRegExp_1 } from '../node_modules/lodash/isRegExp.js';
+
+
+
+export default isRegExp_1;

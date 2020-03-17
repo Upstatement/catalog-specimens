@@ -1,0 +1,5 @@
+import { __moduleExports as identity_1 } from '../node_modules/lodash/identity.js';
+
+
+
+export default identity_1;

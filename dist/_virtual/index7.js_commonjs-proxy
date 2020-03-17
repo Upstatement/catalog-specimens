@@ -1,0 +1,5 @@
+import { __moduleExports as safeBuffer } from '../node_modules/safe-buffer/index.js';
+
+
+
+export default safeBuffer;

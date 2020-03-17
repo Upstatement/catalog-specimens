@@ -1,0 +1,5 @@
+import { __moduleExports as vhdl$1 } from '../node_modules/highlight.js/lib/languages/vhdl.js';
+
+
+
+export default vhdl$1;

@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as entities$1 from '../node_modules/dom-serializer/node_modules/entities/lib/maps/entities.json.js';
+
+var require$$1 = getCjsExportFromNamespace(entities$1);
+
+export default require$$1;

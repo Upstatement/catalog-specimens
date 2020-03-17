@@ -1,0 +1,5 @@
+import { __moduleExports as isReactChildrenElementCall_1 } from '../node_modules/react-docgen/dist/utils/isReactChildrenElementCall.js';
+
+
+
+export default isReactChildrenElementCall_1;

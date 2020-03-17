@@ -1,0 +1,5 @@
+import { __moduleExports as namedTypes_1 } from '../node_modules/ast-types/gen/namedTypes.js';
+
+
+
+export default namedTypes_1;

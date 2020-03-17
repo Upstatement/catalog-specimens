@@ -1,0 +1,5 @@
+import { __moduleExports as mizar$1 } from '../node_modules/highlight.js/lib/languages/mizar.js';
+
+
+
+export default mizar$1;

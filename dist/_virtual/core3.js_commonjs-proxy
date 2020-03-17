@@ -1,0 +1,5 @@
+import { __moduleExports as core_1 } from '../node_modules/resolve/lib/core.js';
+
+
+
+export default core_1;

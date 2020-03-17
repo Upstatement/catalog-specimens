@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as _package$2 from '../node_modules/@babel/core/package.json.js';
+
+var _package = getCjsExportFromNamespace(_package$2);
+
+export default _package;

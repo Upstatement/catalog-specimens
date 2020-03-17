@@ -1,0 +1,5 @@
+import { __moduleExports as isFunction_1 } from '../node_modules/lodash/isFunction.js';
+
+
+
+export default isFunction_1;

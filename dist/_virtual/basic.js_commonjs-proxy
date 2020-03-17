@@ -1,0 +1,5 @@
+import { __moduleExports as basic$1 } from '../node_modules/highlight.js/lib/languages/basic.js';
+
+
+
+export default basic$1;

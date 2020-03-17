@@ -1,0 +1,5 @@
+import { __moduleExports as formatters$1 } from '../node_modules/@babel/template/lib/formatters.js';
+
+
+
+export default formatters$1;

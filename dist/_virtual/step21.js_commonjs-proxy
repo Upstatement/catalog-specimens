@@ -1,0 +1,5 @@
+import { __moduleExports as step21$1 } from '../node_modules/highlight.js/lib/languages/step21.js';
+
+
+
+export default step21$1;

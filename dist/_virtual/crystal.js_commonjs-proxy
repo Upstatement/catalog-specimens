@@ -1,0 +1,5 @@
+import { __moduleExports as crystal$1 } from '../node_modules/highlight.js/lib/languages/crystal.js';
+
+
+
+export default crystal$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as templates$1 } from '../node_modules/chalk/templates.js';
+
+
+
+export default templates$1;

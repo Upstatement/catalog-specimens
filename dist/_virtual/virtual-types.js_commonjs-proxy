@@ -1,0 +1,5 @@
+import { __moduleExports as virtualTypes$1 } from '../node_modules/@babel/traverse/lib/path/lib/virtual-types.js';
+
+
+
+export default virtualTypes$1;

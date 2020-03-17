@@ -1,0 +1,5 @@
+import { __moduleExports as whitespace$1 } from '../node_modules/@babel/generator/lib/node/whitespace.js';
+
+
+
+export default whitespace$1;

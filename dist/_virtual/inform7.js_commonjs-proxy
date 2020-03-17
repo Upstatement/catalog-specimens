@@ -1,0 +1,5 @@
+import { __moduleExports as inform7$1 } from '../node_modules/highlight.js/lib/languages/inform7.js';
+
+
+
+export default inform7$1;

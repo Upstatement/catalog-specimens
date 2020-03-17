@@ -1,0 +1,5 @@
+import { __moduleExports as options$1 } from '../node_modules/@babel/template/lib/options.js';
+
+
+
+export default options$1;

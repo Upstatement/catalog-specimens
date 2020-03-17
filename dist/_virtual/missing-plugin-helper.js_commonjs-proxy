@@ -1,0 +1,5 @@
+import { __moduleExports as missingPluginHelper$1 } from '../node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js';
+
+
+
+export default missingPluginHelper$1;

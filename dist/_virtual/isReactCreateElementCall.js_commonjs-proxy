@@ -1,0 +1,5 @@
+import { __moduleExports as isReactCreateElementCall_1 } from '../node_modules/react-docgen/dist/utils/isReactCreateElementCall.js';
+
+
+
+export default isReactCreateElementCall_1;

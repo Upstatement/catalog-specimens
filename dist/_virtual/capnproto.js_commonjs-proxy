@@ -1,0 +1,5 @@
+import { __moduleExports as capnproto$1 } from '../node_modules/highlight.js/lib/languages/capnproto.js';
+
+
+
+export default capnproto$1;

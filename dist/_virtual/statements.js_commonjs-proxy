@@ -1,0 +1,5 @@
+import { __moduleExports as statements$1 } from '../node_modules/@babel/generator/lib/generators/statements.js';
+
+
+
+export default statements$1;

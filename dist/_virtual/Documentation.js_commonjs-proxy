@@ -1,0 +1,5 @@
+import { __moduleExports as Documentation_1 } from '../node_modules/react-docgen/dist/Documentation.js';
+
+
+
+export default Documentation_1;

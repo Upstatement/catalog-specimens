@@ -1,0 +1,5 @@
+import { __moduleExports as typed$1 } from '../node_modules/doctrine/lib/typed.js';
+
+
+
+export default typed$1;

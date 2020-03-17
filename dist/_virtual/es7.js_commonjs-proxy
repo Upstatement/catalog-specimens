@@ -1,0 +1,5 @@
+import { __moduleExports as es7$1 } from '../node_modules/ast-types/def/es7.js';
+
+
+
+export default es7$1;

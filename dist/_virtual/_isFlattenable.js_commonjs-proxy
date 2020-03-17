@@ -1,0 +1,5 @@
+import { __moduleExports as _isFlattenable$1 } from '../node_modules/lodash/_isFlattenable.js';
+
+
+
+export default _isFlattenable$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as VoidElements$1 } from '../node_modules/react-html-parser/lib/dom/elements/VoidElements.js';
+
+
+
+export default VoidElements$1;

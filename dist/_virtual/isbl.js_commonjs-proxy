@@ -1,0 +1,5 @@
+import { __moduleExports as isbl$1 } from '../node_modules/highlight.js/lib/languages/isbl.js';
+
+
+
+export default isbl$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as diff$1 } from '../node_modules/highlight.js/lib/languages/diff.js';
+
+
+
+export default diff$1;

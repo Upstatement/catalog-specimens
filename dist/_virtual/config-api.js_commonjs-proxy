@@ -1,0 +1,5 @@
+import { __moduleExports as configApi$1 } from '../node_modules/@babel/core/lib/config/helpers/config-api.js';
+
+
+
+export default configApi$1;

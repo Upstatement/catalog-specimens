@@ -1,0 +1,5 @@
+import { __moduleExports as elm$1 } from '../node_modules/highlight.js/lib/languages/elm.js';
+
+
+
+export default elm$1;

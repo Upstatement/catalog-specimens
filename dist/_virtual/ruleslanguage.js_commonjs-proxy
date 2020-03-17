@@ -1,0 +1,5 @@
+import { __moduleExports as ruleslanguage$1 } from '../node_modules/highlight.js/lib/languages/ruleslanguage.js';
+
+
+
+export default ruleslanguage$1;

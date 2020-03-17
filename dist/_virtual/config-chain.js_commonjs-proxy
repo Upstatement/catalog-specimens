@@ -1,0 +1,5 @@
+import { __moduleExports as configChain$1 } from '../node_modules/@babel/core/lib/config/config-chain.js';
+
+
+
+export default configChain$1;

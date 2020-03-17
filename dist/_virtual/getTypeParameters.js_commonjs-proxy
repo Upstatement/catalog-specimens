@@ -1,0 +1,5 @@
+import { __moduleExports as getTypeParameters_1 } from '../node_modules/react-docgen/dist/utils/getTypeParameters.js';
+
+
+
+export default getTypeParameters_1;

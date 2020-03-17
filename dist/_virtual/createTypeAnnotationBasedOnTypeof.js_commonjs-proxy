@@ -1,0 +1,5 @@
+import { __moduleExports as createTypeAnnotationBasedOnTypeof_1 } from '../node_modules/@babel/types/lib/builders/flow/createTypeAnnotationBasedOnTypeof.js';
+
+
+
+export default createTypeAnnotationBasedOnTypeof_1;

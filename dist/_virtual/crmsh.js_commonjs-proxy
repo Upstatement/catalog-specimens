@@ -1,0 +1,5 @@
+import { __moduleExports as crmsh$1 } from '../node_modules/highlight.js/lib/languages/crmsh.js';
+
+
+
+export default crmsh$1;

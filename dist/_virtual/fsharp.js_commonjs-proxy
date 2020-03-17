@@ -1,0 +1,5 @@
+import { __moduleExports as fsharp$1 } from '../node_modules/highlight.js/lib/languages/fsharp.js';
+
+
+
+export default fsharp$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as _baseGet$1 } from '../node_modules/lodash/_baseGet.js';
+
+
+
+export default _baseGet$1;

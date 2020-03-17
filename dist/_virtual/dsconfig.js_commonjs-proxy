@@ -1,0 +1,5 @@
+import { __moduleExports as dsconfig$1 } from '../node_modules/highlight.js/lib/languages/dsconfig.js';
+
+
+
+export default dsconfig$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as mipsasm$1 } from '../node_modules/highlight.js/lib/languages/mipsasm.js';
+
+
+
+export default mipsasm$1;

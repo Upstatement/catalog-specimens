@@ -1,0 +1,5 @@
+import { __moduleExports as esProposals$1 } from '../node_modules/ast-types/def/es-proposals.js';
+
+
+
+export default esProposals$1;

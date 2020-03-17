@@ -1,0 +1,5 @@
+import { __moduleExports as http$1 } from '../node_modules/highlight.js/lib/languages/http.js';
+
+
+
+export default http$1;

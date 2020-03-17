@@ -1,0 +1,5 @@
+import { __moduleExports as maxima$1 } from '../node_modules/highlight.js/lib/languages/maxima.js';
+
+
+
+export default maxima$1;

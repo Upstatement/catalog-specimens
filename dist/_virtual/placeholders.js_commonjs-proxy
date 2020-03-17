@@ -1,0 +1,5 @@
+import { __moduleExports as placeholders$1 } from '../node_modules/@babel/types/lib/definitions/placeholders.js';
+
+
+
+export default placeholders$1;

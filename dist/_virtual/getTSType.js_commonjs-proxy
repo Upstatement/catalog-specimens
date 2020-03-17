@@ -1,0 +1,5 @@
+import { __moduleExports as getTSType_1 } from '../node_modules/react-docgen/dist/utils/getTSType.js';
+
+
+
+export default getTSType_1;

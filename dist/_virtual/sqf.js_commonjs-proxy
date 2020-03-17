@@ -1,0 +1,5 @@
+import { __moduleExports as sqf$1 } from '../node_modules/highlight.js/lib/languages/sqf.js';
+
+
+
+export default sqf$1;

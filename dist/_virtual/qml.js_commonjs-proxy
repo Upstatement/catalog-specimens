@@ -1,0 +1,5 @@
+import { __moduleExports as qml$1 } from '../node_modules/highlight.js/lib/languages/qml.js';
+
+
+
+export default qml$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as _baseProperty$1 } from '../node_modules/lodash/_baseProperty.js';
+
+
+
+export default _baseProperty$1;

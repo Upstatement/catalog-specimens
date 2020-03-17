@@ -1,0 +1,5 @@
+import { __moduleExports as awk$1 } from '../node_modules/highlight.js/lib/languages/awk.js';
+
+
+
+export default awk$1;

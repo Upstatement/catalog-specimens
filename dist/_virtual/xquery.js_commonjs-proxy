@@ -1,0 +1,5 @@
+import { __moduleExports as xquery$1 } from '../node_modules/highlight.js/lib/languages/xquery.js';
+
+
+
+export default xquery$1;

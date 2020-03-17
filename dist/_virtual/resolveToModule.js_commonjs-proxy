@@ -1,0 +1,5 @@
+import { __moduleExports as resolveToModule_1 } from '../node_modules/react-docgen/dist/utils/resolveToModule.js';
+
+
+
+export default resolveToModule_1;

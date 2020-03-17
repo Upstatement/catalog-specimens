@@ -1,0 +1,5 @@
+import { __moduleExports as domhandler } from '../node_modules/domhandler/index.js';
+
+
+
+export default domhandler;

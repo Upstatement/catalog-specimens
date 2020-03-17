@@ -1,0 +1,5 @@
+import { __moduleExports as ocaml$1 } from '../node_modules/highlight.js/lib/languages/ocaml.js';
+
+
+
+export default ocaml$1;

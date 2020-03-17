@@ -1,0 +1,5 @@
+import { __moduleExports as isStatelessComponent_1 } from '../node_modules/react-docgen/dist/utils/isStatelessComponent.js';
+
+
+
+export default isStatelessComponent_1;

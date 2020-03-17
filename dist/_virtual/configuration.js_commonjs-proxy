@@ -1,0 +1,5 @@
+import { __moduleExports as configuration$1 } from '../node_modules/@babel/core/lib/config/files/configuration.js';
+
+
+
+export default configuration$1;

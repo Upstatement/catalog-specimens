@@ -1,0 +1,5 @@
+import { __moduleExports as gams$1 } from '../node_modules/highlight.js/lib/languages/gams.js';
+
+
+
+export default gams$1;

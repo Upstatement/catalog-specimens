@@ -1,0 +1,5 @@
+import { __moduleExports as livecodeserver$1 } from '../node_modules/highlight.js/lib/languages/livecodeserver.js';
+
+
+
+export default livecodeserver$1;

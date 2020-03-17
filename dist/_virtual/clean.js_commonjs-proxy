@@ -1,0 +1,5 @@
+import { __moduleExports as clean$1 } from '../node_modules/highlight.js/lib/languages/clean.js';
+
+
+
+export default clean$1;

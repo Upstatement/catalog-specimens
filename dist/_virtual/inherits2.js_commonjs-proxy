@@ -1,0 +1,5 @@
+import { __moduleExports as inherits_1 } from '../node_modules/@babel/types/lib/modifications/inherits.js';
+
+
+
+export default inherits_1;

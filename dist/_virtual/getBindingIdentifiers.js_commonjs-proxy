@@ -1,0 +1,5 @@
+import { __moduleExports as getBindingIdentifiers_1 } from '../node_modules/@babel/types/lib/retrievers/getBindingIdentifiers.js';
+
+
+
+export default getBindingIdentifiers_1;

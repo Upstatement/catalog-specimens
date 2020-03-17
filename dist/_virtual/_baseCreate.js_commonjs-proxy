@@ -1,0 +1,5 @@
+import { __moduleExports as _baseCreate$1 } from '../node_modules/lodash/_baseCreate.js';
+
+
+
+export default _baseCreate$1;

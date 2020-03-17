@@ -1,0 +1,5 @@
+import { __moduleExports as removed$1 } from '../node_modules/@babel/core/lib/config/validation/removed.js';
+
+
+
+export default removed$1;

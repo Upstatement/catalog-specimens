@@ -17,7 +17,7 @@ import React from 'react';
 import { Specimen } from 'catalog';
 import ReactHtmlParser from 'react-html-parser';
 import showdown from 'showdown';
-const reactDocs = require('react-docgen');
+import reactDocs from 'react-docgen';
 
 import "./index.css";
 

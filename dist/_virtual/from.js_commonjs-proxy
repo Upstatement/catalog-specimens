@@ -1,0 +1,5 @@
+import { __moduleExports as from_1 } from '../node_modules/htmlparser2/node_modules/readable-stream/lib/internal/streams/from.js';
+
+
+
+export default from_1;

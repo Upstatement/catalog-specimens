@@ -1,0 +1,5 @@
+import { __moduleExports as _baseUnary$1 } from '../node_modules/lodash/_baseUnary.js';
+
+
+
+export default _baseUnary$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as _stream_duplex$1 } from '../node_modules/htmlparser2/node_modules/readable-stream/lib/_stream_duplex.js';
+
+
+
+export default _stream_duplex$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as puppet$1 } from '../node_modules/highlight.js/lib/languages/puppet.js';
+
+
+
+export default puppet$1;

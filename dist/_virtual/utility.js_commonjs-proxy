@@ -1,0 +1,5 @@
+import { __moduleExports as utility$1 } from '../node_modules/doctrine/lib/utility.js';
+
+
+
+export default utility$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as hy$1 } from '../node_modules/highlight.js/lib/languages/hy.js';
+
+
+
+export default hy$1;

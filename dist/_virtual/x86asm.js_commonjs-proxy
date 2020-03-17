@@ -1,0 +1,5 @@
+import { __moduleExports as x86asm$1 } from '../node_modules/highlight.js/lib/languages/x86asm.js';
+
+
+
+export default x86asm$1;

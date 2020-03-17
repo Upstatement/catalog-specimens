@@ -1,0 +1,5 @@
+import { __moduleExports as path } from '../node_modules/@babel/traverse/lib/path/index.js';
+
+
+
+export default path;

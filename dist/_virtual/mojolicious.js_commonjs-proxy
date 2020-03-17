@@ -1,0 +1,5 @@
+import { __moduleExports as mojolicious$1 } from '../node_modules/highlight.js/lib/languages/mojolicious.js';
+
+
+
+export default mojolicious$1;

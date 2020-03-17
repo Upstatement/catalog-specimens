@@ -1,0 +1,5 @@
+import { __moduleExports as _baseIsMap$1 } from '../node_modules/lodash/_baseIsMap.js';
+
+
+
+export default _baseIsMap$1;

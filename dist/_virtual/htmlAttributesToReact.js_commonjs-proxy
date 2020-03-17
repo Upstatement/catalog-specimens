@@ -1,0 +1,5 @@
+import { __moduleExports as htmlAttributesToReact_1 } from '../node_modules/react-html-parser/lib/utils/htmlAttributesToReact.js';
+
+
+
+export default htmlAttributesToReact_1;

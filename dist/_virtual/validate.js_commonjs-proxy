@@ -1,0 +1,5 @@
+import { __moduleExports as validate_1 } from '../node_modules/@babel/types/lib/validators/validate.js';
+
+
+
+export default validate_1;

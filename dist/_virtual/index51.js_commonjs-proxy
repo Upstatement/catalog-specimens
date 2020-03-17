@@ -1,0 +1,5 @@
+import { __moduleExports as config } from '../node_modules/@babel/core/lib/config/index.js';
+
+
+
+export default config;

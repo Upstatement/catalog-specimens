@@ -1,0 +1,5 @@
+import { __moduleExports as isCompatTag_1 } from '../node_modules/@babel/types/lib/validators/react/isCompatTag.js';
+
+
+
+export default isCompatTag_1;

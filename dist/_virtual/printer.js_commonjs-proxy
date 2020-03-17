@@ -1,0 +1,5 @@
+import { __moduleExports as printer$1 } from '../node_modules/@babel/generator/lib/printer.js';
+
+
+
+export default printer$1;

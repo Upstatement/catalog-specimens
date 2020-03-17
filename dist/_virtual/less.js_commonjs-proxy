@@ -1,0 +1,5 @@
+import { __moduleExports as less$1 } from '../node_modules/highlight.js/lib/languages/less.js';
+
+
+
+export default less$1;

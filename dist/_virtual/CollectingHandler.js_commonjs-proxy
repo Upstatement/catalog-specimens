@@ -1,0 +1,5 @@
+import { __moduleExports as CollectingHandler_1 } from '../node_modules/htmlparser2/lib/CollectingHandler.js';
+
+
+
+export default CollectingHandler_1;

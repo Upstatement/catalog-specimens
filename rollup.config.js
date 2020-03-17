@@ -1,5 +1,7 @@
 const resolve = require("@rollup/plugin-node-resolve");
 const babel = require("rollup-plugin-babel");
+const commonjs = require('@rollup/plugin-commonjs');
+const json = require('@rollup/plugin-json');
 import postcss from "rollup-plugin-postcss";
 
 module.exports = {
@@ -18,16 +20,18 @@ module.exports = {
   plugins: [
     resolve(),
     babel({ exclude: "node_modules/**" }),
-    postcss({ extract: true })
+    postcss({ extract: true }),
+    json(),
+    commonjs(),
   ],
   external: [
     "catalog",
     "dayjs",
     "react",
-    "react-docgen",
-    "react-dom",
-    "react-highlight.js",
-    "react-html-parser",
-    "showdown"
+    // "react-docgen",
+    // "react-dom",
+    // "react-highlight.js",
+    // "react-html-parser",
+    // "showdown"
   ]
 };

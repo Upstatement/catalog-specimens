@@ -1,0 +1,5 @@
+import { __moduleExports as _coreJsData$1 } from '../node_modules/lodash/_coreJsData.js';
+
+
+
+export default _coreJsData$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as n1ql$1 } from '../node_modules/highlight.js/lib/languages/n1ql.js';
+
+
+
+export default n1ql$1;

@@ -1,0 +1,5 @@
+import url$1 from 'url';
+
+
+
+export default url$1;

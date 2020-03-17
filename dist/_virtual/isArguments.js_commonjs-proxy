@@ -1,0 +1,5 @@
+import { __moduleExports as isArguments_1 } from '../node_modules/lodash/isArguments.js';
+
+
+
+export default isArguments_1;

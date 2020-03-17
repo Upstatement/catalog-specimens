@@ -1,0 +1,5 @@
+import { __moduleExports as dns$1 } from '../node_modules/highlight.js/lib/languages/dns.js';
+
+
+
+export default dns$1;

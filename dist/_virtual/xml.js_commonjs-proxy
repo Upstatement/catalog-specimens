@@ -1,0 +1,5 @@
+import { __moduleExports as xml$1 } from '../node_modules/highlight.js/lib/languages/xml.js';
+
+
+
+export default xml$1;

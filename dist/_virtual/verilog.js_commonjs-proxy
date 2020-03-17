@@ -1,0 +1,5 @@
+import { __moduleExports as verilog$1 } from '../node_modules/highlight.js/lib/languages/verilog.js';
+
+
+
+export default verilog$1;

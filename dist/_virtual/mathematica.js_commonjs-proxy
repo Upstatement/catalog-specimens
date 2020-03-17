@@ -1,0 +1,5 @@
+import { __moduleExports as mathematica$1 } from '../node_modules/highlight.js/lib/languages/mathematica.js';
+
+
+
+export default mathematica$1;

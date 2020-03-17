@@ -1,0 +1,5 @@
+import { __moduleExports as profile$1 } from '../node_modules/highlight.js/lib/languages/profile.js';
+
+
+
+export default profile$1;

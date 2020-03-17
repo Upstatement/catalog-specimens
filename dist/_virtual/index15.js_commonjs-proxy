@@ -1,0 +1,5 @@
+import { __moduleExports as toFastProperties } from '../node_modules/to-fast-properties/index.js';
+
+
+
+export default toFastProperties;

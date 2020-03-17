@@ -1,0 +1,5 @@
+import { __moduleExports as haxe$1 } from '../node_modules/highlight.js/lib/languages/haxe.js';
+
+
+
+export default haxe$1;

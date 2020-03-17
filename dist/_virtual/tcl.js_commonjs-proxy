@@ -1,0 +1,5 @@
+import { __moduleExports as tcl$1 } from '../node_modules/highlight.js/lib/languages/tcl.js';
+
+
+
+export default tcl$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as domSerializer } from '../node_modules/dom-serializer/index.js';
+
+
+
+export default domSerializer;

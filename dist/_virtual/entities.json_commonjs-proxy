@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as entities$1 from '../node_modules/entities/maps/entities.json.js';
+
+var entityMap = getCjsExportFromNamespace(entities$1);
+
+export default entityMap;

@@ -1,0 +1,5 @@
+import { __moduleExports as shallowEqual_1 } from '../node_modules/@babel/types/lib/utils/shallowEqual.js';
+
+
+
+export default shallowEqual_1;

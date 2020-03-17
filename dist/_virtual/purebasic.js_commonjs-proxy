@@ -1,0 +1,5 @@
+import { __moduleExports as purebasic$1 } from '../node_modules/highlight.js/lib/languages/purebasic.js';
+
+
+
+export default purebasic$1;

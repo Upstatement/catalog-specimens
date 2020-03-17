@@ -1,0 +1,5 @@
+import { __moduleExports as pgsql$1 } from '../node_modules/highlight.js/lib/languages/pgsql.js';
+
+
+
+export default pgsql$1;

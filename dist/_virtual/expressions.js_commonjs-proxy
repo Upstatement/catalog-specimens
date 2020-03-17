@@ -1,0 +1,5 @@
+import { __moduleExports as expressions$1 } from '../node_modules/@babel/generator/lib/generators/expressions.js';
+
+
+
+export default expressions$1;

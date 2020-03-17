@@ -1,0 +1,5 @@
+import { __moduleExports as ini$1 } from '../node_modules/highlight.js/lib/languages/ini.js';
+
+
+
+export default ini$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as sas$1 } from '../node_modules/highlight.js/lib/languages/sas.js';
+
+
+
+export default sas$1;

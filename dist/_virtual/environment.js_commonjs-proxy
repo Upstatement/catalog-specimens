@@ -1,0 +1,5 @@
+import { __moduleExports as environment$1 } from '../node_modules/@babel/core/lib/config/helpers/environment.js';
+
+
+
+export default environment$1;

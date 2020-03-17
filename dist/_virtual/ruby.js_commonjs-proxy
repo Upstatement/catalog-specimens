@@ -1,0 +1,5 @@
+import { __moduleExports as ruby$1 } from '../node_modules/highlight.js/lib/languages/ruby.js';
+
+
+
+export default ruby$1;

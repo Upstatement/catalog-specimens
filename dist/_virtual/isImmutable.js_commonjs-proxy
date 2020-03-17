@@ -1,0 +1,5 @@
+import { __moduleExports as isImmutable_1 } from '../node_modules/@babel/types/lib/validators/isImmutable.js';
+
+
+
+export default isImmutable_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as _isIndex$1 } from '../node_modules/lodash/_isIndex.js';
+
+
+
+export default _isIndex$1;

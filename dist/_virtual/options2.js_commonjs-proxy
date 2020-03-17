@@ -1,0 +1,5 @@
+import { __moduleExports as options$1 } from '../node_modules/@babel/core/lib/config/validation/options.js';
+
+
+
+export default options$1;

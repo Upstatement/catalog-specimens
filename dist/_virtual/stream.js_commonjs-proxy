@@ -1,0 +1,5 @@
+import { __moduleExports as stream$1 } from '../node_modules/htmlparser2/node_modules/readable-stream/lib/internal/streams/stream.js';
+
+
+
+export default stream$1;

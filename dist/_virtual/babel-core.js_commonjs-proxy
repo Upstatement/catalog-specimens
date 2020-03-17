@@ -1,0 +1,5 @@
+import { __moduleExports as babelCore$1 } from '../node_modules/ast-types/def/babel-core.js';
+
+
+
+export default babelCore$1;

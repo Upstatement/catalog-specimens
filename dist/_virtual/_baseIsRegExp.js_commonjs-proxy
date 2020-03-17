@@ -1,0 +1,5 @@
+import { __moduleExports as _baseIsRegExp$1 } from '../node_modules/lodash/_baseIsRegExp.js';
+
+
+
+export default _baseIsRegExp$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as livescript$1 } from '../node_modules/highlight.js/lib/languages/livescript.js';
+
+
+
+export default livescript$1;

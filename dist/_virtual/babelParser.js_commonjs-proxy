@@ -1,0 +1,5 @@
+import { __moduleExports as babelParser$1 } from '../node_modules/react-docgen/dist/babelParser.js';
+
+
+
+export default babelParser$1;

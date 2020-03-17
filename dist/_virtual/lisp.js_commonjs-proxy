@@ -1,0 +1,5 @@
+import { __moduleExports as lisp$1 } from '../node_modules/highlight.js/lib/languages/lisp.js';
+
+
+
+export default lisp$1;

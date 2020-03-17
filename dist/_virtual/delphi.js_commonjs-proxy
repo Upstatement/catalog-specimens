@@ -1,0 +1,5 @@
+import { __moduleExports as delphi$1 } from '../node_modules/highlight.js/lib/languages/delphi.js';
+
+
+
+export default delphi$1;

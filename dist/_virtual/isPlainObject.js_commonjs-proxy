@@ -1,0 +1,5 @@
+import { __moduleExports as isPlainObject_1 } from '../node_modules/lodash/isPlainObject.js';
+
+
+
+export default isPlainObject_1;

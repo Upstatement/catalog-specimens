@@ -1,0 +1,5 @@
+import fs$1 from 'fs';
+
+
+
+export default fs$1;

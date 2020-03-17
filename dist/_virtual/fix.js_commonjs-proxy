@@ -1,0 +1,5 @@
+import { __moduleExports as fix$1 } from '../node_modules/highlight.js/lib/languages/fix.js';
+
+
+
+export default fix$1;

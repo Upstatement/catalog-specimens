@@ -1,0 +1,5 @@
+import { __moduleExports as mel$1 } from '../node_modules/highlight.js/lib/languages/mel.js';
+
+
+
+export default mel$1;

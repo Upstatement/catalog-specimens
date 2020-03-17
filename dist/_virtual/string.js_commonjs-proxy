@@ -1,0 +1,5 @@
+import { __moduleExports as string$1 } from '../node_modules/@babel/template/lib/string.js';
+
+
+
+export default string$1;

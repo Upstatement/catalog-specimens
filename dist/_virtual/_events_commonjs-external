@@ -1,0 +1,5 @@
+import events$1 from 'events';
+
+
+
+export default events$1;

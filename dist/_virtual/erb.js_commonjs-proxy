@@ -1,0 +1,5 @@
+import { __moduleExports as erb$1 } from '../node_modules/highlight.js/lib/languages/erb.js';
+
+
+
+export default erb$1;

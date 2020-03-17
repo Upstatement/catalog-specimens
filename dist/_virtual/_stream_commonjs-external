@@ -1,0 +1,5 @@
+import stream$1 from 'stream';
+
+
+
+export default stream$1;

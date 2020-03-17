@@ -1,0 +1,5 @@
+import { __moduleExports as gherkin$1 } from '../node_modules/highlight.js/lib/languages/gherkin.js';
+
+
+
+export default gherkin$1;

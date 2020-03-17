@@ -1,0 +1,5 @@
+import { __moduleExports as javascript$1 } from '../node_modules/highlight.js/lib/languages/javascript.js';
+
+
+
+export default javascript$1;

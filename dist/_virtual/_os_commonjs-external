@@ -1,0 +1,5 @@
+import os$1 from 'os';
+
+
+
+export default os$1;

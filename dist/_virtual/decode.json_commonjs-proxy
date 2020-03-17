@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as decode$1 from '../node_modules/entities/maps/decode.json.js';
+
+var decodeMap = getCjsExportFromNamespace(decode$1);
+
+export default decodeMap;

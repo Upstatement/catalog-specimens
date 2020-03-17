@@ -1,0 +1,5 @@
+import { __moduleExports as resolveExportDeclaration_1 } from '../node_modules/react-docgen/dist/utils/resolveExportDeclaration.js';
+
+
+
+export default resolveExportDeclaration_1;

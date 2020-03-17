@@ -1,0 +1,5 @@
+import { __moduleExports as objectivec$1 } from '../node_modules/highlight.js/lib/languages/objectivec.js';
+
+
+
+export default objectivec$1;

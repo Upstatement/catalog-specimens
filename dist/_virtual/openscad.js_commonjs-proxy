@@ -1,0 +1,5 @@
+import { __moduleExports as openscad$1 } from '../node_modules/highlight.js/lib/languages/openscad.js';
+
+
+
+export default openscad$1;

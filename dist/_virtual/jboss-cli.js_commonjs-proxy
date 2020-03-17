@@ -1,0 +1,5 @@
+import { __moduleExports as jbossCli$1 } from '../node_modules/highlight.js/lib/languages/jboss-cli.js';
+
+
+
+export default jbossCli$1;

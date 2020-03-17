@@ -1,0 +1,5 @@
+import { __moduleExports as get_1 } from '../node_modules/lodash/get.js';
+
+
+
+export default get_1;

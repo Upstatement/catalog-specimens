@@ -1,0 +1,5 @@
+import { __moduleExports as oxygene$1 } from '../node_modules/highlight.js/lib/languages/oxygene.js';
+
+
+
+export default oxygene$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as nix$1 } from '../node_modules/highlight.js/lib/languages/nix.js';
+
+
+
+export default nix$1;

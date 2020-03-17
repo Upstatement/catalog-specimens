@@ -1,0 +1,5 @@
+import { __moduleExports as applescript$1 } from '../node_modules/highlight.js/lib/languages/applescript.js';
+
+
+
+export default applescript$1;

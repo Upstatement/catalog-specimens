@@ -1,0 +1,5 @@
+import { __moduleExports as WritableStream_1 } from '../node_modules/htmlparser2/lib/WritableStream.js';
+
+
+
+export default WritableStream_1;

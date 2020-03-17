@@ -1,0 +1,5 @@
+import { __moduleExports as parse$1 } from '../node_modules/@babel/template/lib/parse.js';
+
+
+
+export default parse$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as manipulation$1 } from '../node_modules/domutils/lib/manipulation.js';
+
+
+
+export default manipulation$1;

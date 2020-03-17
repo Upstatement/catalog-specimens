@@ -1,0 +1,5 @@
+import { __moduleExports as resolve } from '../node_modules/resolve/index.js';
+
+
+
+export default resolve;

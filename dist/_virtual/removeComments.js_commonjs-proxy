@@ -1,0 +1,5 @@
+import { __moduleExports as removeComments_1 } from '../node_modules/@babel/types/lib/comments/removeComments.js';
+
+
+
+export default removeComments_1;

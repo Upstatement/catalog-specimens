@@ -1,0 +1,5 @@
+import { __moduleExports as ProxyHandler_1 } from '../node_modules/htmlparser2/lib/ProxyHandler.js';
+
+
+
+export default ProxyHandler_1;

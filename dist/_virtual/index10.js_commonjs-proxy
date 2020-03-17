@@ -1,0 +1,5 @@
+import { __moduleExports as minIndent } from '../node_modules/min-indent/index.js';
+
+
+
+export default minIndent;

@@ -1,0 +1,5 @@
+import { __moduleExports as ceylon$1 } from '../node_modules/highlight.js/lib/languages/ceylon.js';
+
+
+
+export default ceylon$1;

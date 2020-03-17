@@ -1,0 +1,5 @@
+import { __moduleExports as introspection$1 } from '../node_modules/@babel/traverse/lib/path/introspection.js';
+
+
+
+export default introspection$1;

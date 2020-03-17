@@ -1,0 +1,5 @@
+import { __moduleExports as TextElementType_1 } from '../node_modules/react-html-parser/lib/elementTypes/TextElementType.js';
+
+
+
+export default TextElementType_1;

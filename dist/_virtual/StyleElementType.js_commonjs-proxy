@@ -1,0 +1,5 @@
+import { __moduleExports as StyleElementType_1 } from '../node_modules/react-html-parser/lib/elementTypes/StyleElementType.js';
+
+
+
+export default StyleElementType_1;

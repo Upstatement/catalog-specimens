@@ -1,0 +1,5 @@
+import { __moduleExports as cache$1 } from '../node_modules/@babel/traverse/lib/cache.js';
+
+
+
+export default cache$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as django$1 } from '../node_modules/highlight.js/lib/languages/django.js';
+
+
+
+export default django$1;

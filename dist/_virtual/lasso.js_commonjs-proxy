@@ -1,0 +1,5 @@
+import { __moduleExports as lasso$1 } from '../node_modules/highlight.js/lib/languages/lasso.js';
+
+
+
+export default lasso$1;

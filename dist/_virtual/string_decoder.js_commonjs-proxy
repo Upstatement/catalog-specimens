@@ -1,0 +1,5 @@
+import { __moduleExports as string_decoder$1 } from '../node_modules/string_decoder/lib/string_decoder.js';
+
+
+
+export default string_decoder$1;

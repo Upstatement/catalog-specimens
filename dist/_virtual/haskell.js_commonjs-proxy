@@ -1,0 +1,5 @@
+import { __moduleExports as haskell$1 } from '../node_modules/highlight.js/lib/languages/haskell.js';
+
+
+
+export default haskell$1;

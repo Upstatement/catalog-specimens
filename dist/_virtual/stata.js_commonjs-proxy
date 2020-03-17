@@ -1,0 +1,5 @@
+import { __moduleExports as stata$1 } from '../node_modules/highlight.js/lib/languages/stata.js';
+
+
+
+export default stata$1;

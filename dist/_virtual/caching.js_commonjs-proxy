@@ -1,0 +1,5 @@
+import { __moduleExports as caching$1 } from '../node_modules/@babel/core/lib/config/caching.js';
+
+
+
+export default caching$1;

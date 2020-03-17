@@ -1,0 +1,5 @@
+import { __moduleExports as blockHoistPlugin_1 } from '../node_modules/@babel/core/lib/transformation/block-hoist-plugin.js';
+
+
+
+export default blockHoistPlugin_1;

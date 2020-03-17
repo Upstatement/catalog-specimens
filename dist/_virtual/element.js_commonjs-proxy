@@ -1,0 +1,5 @@
+import { __moduleExports as element$1 } from '../node_modules/domhandler/lib/element.js';
+
+
+
+export default element$1;

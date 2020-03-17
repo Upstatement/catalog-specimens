@@ -1,0 +1,5 @@
+import { __moduleExports as isBlockScoped_1 } from '../node_modules/@babel/types/lib/validators/isBlockScoped.js';
+
+
+
+export default isBlockScoped_1;

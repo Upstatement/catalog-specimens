@@ -1,0 +1,5 @@
+import { __moduleExports as brainfuck$1 } from '../node_modules/highlight.js/lib/languages/brainfuck.js';
+
+
+
+export default brainfuck$1;

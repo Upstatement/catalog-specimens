@@ -1,0 +1,5 @@
+import { __moduleExports as _package$1 } from '../node_modules/@babel/core/lib/config/files/package.js';
+
+
+
+export default _package$1;

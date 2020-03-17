@@ -1,0 +1,5 @@
+import { __moduleExports as postProcessDocumentation$1 } from '../node_modules/react-docgen/dist/utils/postProcessDocumentation.js';
+
+
+
+export default postProcessDocumentation$1;

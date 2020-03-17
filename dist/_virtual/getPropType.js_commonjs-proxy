@@ -1,0 +1,5 @@
+import { __moduleExports as getPropType_1 } from '../node_modules/react-docgen/dist/utils/getPropType.js';
+
+
+
+export default getPropType_1;

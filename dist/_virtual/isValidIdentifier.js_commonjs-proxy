@@ -1,0 +1,5 @@
+import { __moduleExports as isValidIdentifier_1 } from '../node_modules/@babel/types/lib/validators/isValidIdentifier.js';
+
+
+
+export default isValidIdentifier_1;

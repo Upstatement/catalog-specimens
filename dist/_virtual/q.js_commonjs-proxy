@@ -1,0 +1,5 @@
+import { __moduleExports as q$1 } from '../node_modules/highlight.js/lib/languages/q.js';
+
+
+
+export default q$1;

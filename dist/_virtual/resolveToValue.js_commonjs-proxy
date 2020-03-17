@@ -1,0 +1,5 @@
+import { __moduleExports as resolveToValue_1 } from '../node_modules/react-docgen/dist/utils/resolveToValue.js';
+
+
+
+export default resolveToValue_1;

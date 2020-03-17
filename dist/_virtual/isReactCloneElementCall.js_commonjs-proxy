@@ -1,0 +1,5 @@
+import { __moduleExports as isReactCloneElementCall_1 } from '../node_modules/react-docgen/dist/utils/isReactCloneElementCall.js';
+
+
+
+export default isReactCloneElementCall_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as endOfStream$1 } from '../node_modules/htmlparser2/node_modules/readable-stream/lib/internal/streams/end-of-stream.js';
+
+
+
+export default endOfStream$1;

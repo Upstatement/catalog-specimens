@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as _package$1 from '../node_modules/doctrine/package.json.js';
+
+var require$$0 = getCjsExportFromNamespace(_package$1);
+
+export default require$$0;

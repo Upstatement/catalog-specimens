@@ -1,0 +1,5 @@
+import { __moduleExports as vim$1 } from '../node_modules/highlight.js/lib/languages/vim.js';
+
+
+
+export default vim$1;

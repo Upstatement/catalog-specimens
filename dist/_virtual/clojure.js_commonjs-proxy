@@ -1,0 +1,5 @@
+import { __moduleExports as clojure$1 } from '../node_modules/highlight.js/lib/languages/clojure.js';
+
+
+
+export default clojure$1;

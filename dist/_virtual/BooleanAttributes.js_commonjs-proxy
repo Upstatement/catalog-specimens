@@ -1,0 +1,5 @@
+import { __moduleExports as BooleanAttributes$1 } from '../node_modules/react-html-parser/lib/dom/attributes/BooleanAttributes.js';
+
+
+
+export default BooleanAttributes$1;

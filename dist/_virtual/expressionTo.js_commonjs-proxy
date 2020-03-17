@@ -1,0 +1,5 @@
+import { __moduleExports as expressionTo$1 } from '../node_modules/react-docgen/dist/utils/expressionTo.js';
+
+
+
+export default expressionTo$1;

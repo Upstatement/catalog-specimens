@@ -1,0 +1,5 @@
+import { __moduleExports as properties$1 } from '../node_modules/highlight.js/lib/languages/properties.js';
+
+
+
+export default properties$1;

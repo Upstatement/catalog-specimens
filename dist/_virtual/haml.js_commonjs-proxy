@@ -1,0 +1,5 @@
+import { __moduleExports as haml$1 } from '../node_modules/highlight.js/lib/languages/haml.js';
+
+
+
+export default haml$1;

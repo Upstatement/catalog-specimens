@@ -1,0 +1,5 @@
+import { __moduleExports as nodeModulesPaths$1 } from '../node_modules/resolve/lib/node-modules-paths.js';
+
+
+
+export default nodeModulesPaths$1;

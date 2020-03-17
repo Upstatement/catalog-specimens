@@ -1,0 +1,5 @@
+import { __moduleExports as ast$1 } from '../node_modules/esutils/lib/ast.js';
+
+
+
+export default ast$1;

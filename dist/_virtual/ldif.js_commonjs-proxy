@@ -1,0 +1,5 @@
+import { __moduleExports as ldif$1 } from '../node_modules/highlight.js/lib/languages/ldif.js';
+
+
+
+export default ldif$1;

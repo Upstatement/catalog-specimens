@@ -1,0 +1,5 @@
+import { __moduleExports as protobuf$1 } from '../node_modules/highlight.js/lib/languages/protobuf.js';
+
+
+
+export default protobuf$1;

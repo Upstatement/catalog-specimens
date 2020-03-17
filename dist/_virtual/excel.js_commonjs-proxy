@@ -1,0 +1,5 @@
+import { __moduleExports as excel$1 } from '../node_modules/highlight.js/lib/languages/excel.js';
+
+
+
+export default excel$1;

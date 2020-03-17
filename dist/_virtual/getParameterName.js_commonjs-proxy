@@ -1,0 +1,5 @@
+import { __moduleExports as getParameterName_1 } from '../node_modules/react-docgen/dist/utils/getParameterName.js';
+
+
+
+export default getParameterName_1;

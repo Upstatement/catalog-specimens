@@ -1,0 +1,5 @@
+import { __moduleExports as plaintext$1 } from '../node_modules/highlight.js/lib/languages/plaintext.js';
+
+
+
+export default plaintext$1;

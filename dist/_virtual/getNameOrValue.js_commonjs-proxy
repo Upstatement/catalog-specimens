@@ -1,0 +1,5 @@
+import { __moduleExports as getNameOrValue_1 } from '../node_modules/react-docgen/dist/utils/getNameOrValue.js';
+
+
+
+export default getNameOrValue_1;

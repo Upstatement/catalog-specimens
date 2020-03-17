@@ -1,0 +1,5 @@
+import { __moduleExports as roboconf$1 } from '../node_modules/highlight.js/lib/languages/roboconf.js';
+
+
+
+export default roboconf$1;

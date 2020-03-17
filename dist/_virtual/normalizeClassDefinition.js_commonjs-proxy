@@ -1,0 +1,5 @@
+import { __moduleExports as normalizeClassDefinition_1 } from '../node_modules/react-docgen/dist/utils/normalizeClassDefinition.js';
+
+
+
+export default normalizeClassDefinition_1;

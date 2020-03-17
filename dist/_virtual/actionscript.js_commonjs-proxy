@@ -1,0 +1,5 @@
+import { __moduleExports as actionscript$1 } from '../node_modules/highlight.js/lib/languages/actionscript.js';
+
+
+
+export default actionscript$1;

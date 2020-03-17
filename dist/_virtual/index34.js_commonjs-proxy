@@ -1,0 +1,5 @@
+import { __moduleExports as chalk } from '../node_modules/chalk/index.js';
+
+
+
+export default chalk;

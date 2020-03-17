@@ -1,0 +1,5 @@
+import { __moduleExports as mercury$1 } from '../node_modules/highlight.js/lib/languages/mercury.js';
+
+
+
+export default mercury$1;

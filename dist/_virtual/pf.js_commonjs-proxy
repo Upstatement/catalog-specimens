@@ -1,0 +1,5 @@
+import { __moduleExports as pf$1 } from '../node_modules/highlight.js/lib/languages/pf.js';
+
+
+
+export default pf$1;

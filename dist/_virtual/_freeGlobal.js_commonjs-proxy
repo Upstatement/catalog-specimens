@@ -1,0 +1,5 @@
+import { __moduleExports as _freeGlobal$1 } from '../node_modules/lodash/_freeGlobal.js';
+
+
+
+export default _freeGlobal$1;

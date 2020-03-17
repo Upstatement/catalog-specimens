@@ -1,0 +1,5 @@
+import { __moduleExports as r$1 } from '../node_modules/highlight.js/lib/languages/r.js';
+
+
+
+export default r$1;

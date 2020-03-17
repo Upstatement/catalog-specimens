@@ -1,0 +1,5 @@
+import { __moduleExports as avrasm$1 } from '../node_modules/highlight.js/lib/languages/avrasm.js';
+
+
+
+export default avrasm$1;

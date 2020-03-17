@@ -1,0 +1,5 @@
+import { __moduleExports as componentMethodsHandler_1 } from '../node_modules/react-docgen/dist/handlers/componentMethodsHandler.js';
+
+
+
+export default componentMethodsHandler_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as shared$1 } from '../node_modules/ast-types/lib/shared.js';
+
+
+
+export default shared$1;

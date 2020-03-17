@@ -1,0 +1,5 @@
+import { __moduleExports as twig$1 } from '../node_modules/highlight.js/lib/languages/twig.js';
+
+
+
+export default twig$1;

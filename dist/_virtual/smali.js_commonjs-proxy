@@ -1,0 +1,5 @@
+import { __moduleExports as smali$1 } from '../node_modules/highlight.js/lib/languages/smali.js';
+
+
+
+export default smali$1;

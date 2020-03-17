@@ -1,0 +1,5 @@
+import { __moduleExports as cos$1 } from '../node_modules/highlight.js/lib/languages/cos.js';
+
+
+
+export default cos$1;

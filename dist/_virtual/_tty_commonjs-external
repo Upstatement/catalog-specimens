@@ -1,0 +1,5 @@
+import tty$1 from 'tty';
+
+
+
+export default tty$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as getMemberExpressionRoot_1 } from '../node_modules/react-docgen/dist/utils/getMemberExpressionRoot.js';
+
+
+
+export default getMemberExpressionRoot_1;

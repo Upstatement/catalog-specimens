@@ -1,0 +1,5 @@
+import { __moduleExports as dos$1 } from '../node_modules/highlight.js/lib/languages/dos.js';
+
+
+
+export default dos$1;

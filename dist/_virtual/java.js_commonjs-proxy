@@ -1,0 +1,5 @@
+import { __moduleExports as java$1 } from '../node_modules/highlight.js/lib/languages/java.js';
+
+
+
+export default java$1;

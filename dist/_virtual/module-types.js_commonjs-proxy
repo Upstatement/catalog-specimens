@@ -1,0 +1,5 @@
+import { __moduleExports as moduleTypes$1 } from '../node_modules/@babel/core/lib/config/files/module-types.js';
+
+
+
+export default moduleTypes$1;

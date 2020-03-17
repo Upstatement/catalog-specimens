@@ -1,0 +1,5 @@
+import { __moduleExports as _getNative$1 } from '../node_modules/lodash/_getNative.js';
+
+
+
+export default _getNative$1;

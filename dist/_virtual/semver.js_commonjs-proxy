@@ -1,0 +1,5 @@
+import { __moduleExports as semver$1 } from '../node_modules/semver/semver.js';
+
+
+
+export default semver$1;

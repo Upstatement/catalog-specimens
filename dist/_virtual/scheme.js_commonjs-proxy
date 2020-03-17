@@ -1,0 +1,5 @@
+import { __moduleExports as scheme$1 } from '../node_modules/highlight.js/lib/languages/scheme.js';
+
+
+
+export default scheme$1;

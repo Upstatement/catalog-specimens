@@ -1,0 +1,5 @@
+import { __moduleExports as fortran$1 } from '../node_modules/highlight.js/lib/languages/fortran.js';
+
+
+
+export default fortran$1;

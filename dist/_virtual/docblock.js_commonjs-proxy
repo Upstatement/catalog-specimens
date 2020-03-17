@@ -1,0 +1,5 @@
+import { __moduleExports as docblock$1 } from '../node_modules/react-docgen/dist/utils/docblock.js';
+
+
+
+export default docblock$1;

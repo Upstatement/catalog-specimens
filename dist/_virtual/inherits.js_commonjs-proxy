@@ -1,0 +1,5 @@
+import { __moduleExports as inherits$1 } from '../node_modules/inherits/inherits.js';
+
+
+
+export default inherits$1;

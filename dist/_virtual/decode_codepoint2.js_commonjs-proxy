@@ -1,0 +1,5 @@
+import { __moduleExports as decode_codepoint$1 } from '../node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.js';
+
+
+
+export default decode_codepoint$1;

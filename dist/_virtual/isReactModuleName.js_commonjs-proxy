@@ -1,0 +1,5 @@
+import { __moduleExports as isReactModuleName_1 } from '../node_modules/react-docgen/dist/utils/isReactModuleName.js';
+
+
+
+export default isReactModuleName_1;

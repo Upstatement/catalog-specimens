@@ -1,0 +1,5 @@
+import { __moduleExports as gauss$1 } from '../node_modules/highlight.js/lib/languages/gauss.js';
+
+
+
+export default gauss$1;

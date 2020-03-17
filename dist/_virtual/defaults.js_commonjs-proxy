@@ -1,0 +1,5 @@
+import { __moduleExports as defaults_1 } from '../node_modules/lodash/defaults.js';
+
+
+
+export default defaults_1;

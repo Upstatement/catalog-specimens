@@ -1,0 +1,5 @@
+import { __moduleExports as scilab$1 } from '../node_modules/highlight.js/lib/languages/scilab.js';
+
+
+
+export default scilab$1;

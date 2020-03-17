@@ -1,0 +1,5 @@
+import { __moduleExports as appendToMemberExpression_1 } from '../node_modules/@babel/types/lib/modifications/appendToMemberExpression.js';
+
+
+
+export default appendToMemberExpression_1;

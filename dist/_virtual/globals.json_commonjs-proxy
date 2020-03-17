@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as globals$1 from '../node_modules/globals/globals.json.js';
+
+var require$$0 = getCjsExportFromNamespace(globals$1);
+
+export default require$$0;

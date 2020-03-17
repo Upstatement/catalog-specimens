@@ -1,0 +1,5 @@
+import { __moduleExports as armasm$1 } from '../node_modules/highlight.js/lib/languages/armasm.js';
+
+
+
+export default armasm$1;

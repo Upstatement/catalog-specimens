@@ -1,0 +1,5 @@
+import { __moduleExports as setPropDescription$1 } from '../node_modules/react-docgen/dist/utils/setPropDescription.js';
+
+
+
+export default setPropDescription$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as stylus$1 } from '../node_modules/highlight.js/lib/languages/stylus.js';
+
+
+
+export default stylus$1;

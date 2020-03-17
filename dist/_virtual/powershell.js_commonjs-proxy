@@ -1,0 +1,5 @@
+import { __moduleExports as powershell$1 } from '../node_modules/highlight.js/lib/languages/powershell.js';
+
+
+
+export default powershell$1;

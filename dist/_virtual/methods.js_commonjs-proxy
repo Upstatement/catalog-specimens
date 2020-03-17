@@ -1,0 +1,5 @@
+import { __moduleExports as methods$1 } from '../node_modules/@babel/generator/lib/generators/methods.js';
+
+
+
+export default methods$1;

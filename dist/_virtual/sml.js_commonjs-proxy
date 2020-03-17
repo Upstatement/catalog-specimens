@@ -1,0 +1,5 @@
+import { __moduleExports as sml$1 } from '../node_modules/highlight.js/lib/languages/sml.js';
+
+
+
+export default sml$1;

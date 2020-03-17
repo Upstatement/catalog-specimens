@@ -1,0 +1,5 @@
+import { __moduleExports as moonscript$1 } from '../node_modules/highlight.js/lib/languages/moonscript.js';
+
+
+
+export default moonscript$1;

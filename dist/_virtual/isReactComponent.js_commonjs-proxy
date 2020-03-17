@@ -1,0 +1,5 @@
+import { __moduleExports as isReactComponent_1 } from '../node_modules/@babel/types/lib/validators/react/isReactComponent.js';
+
+
+
+export default isReactComponent_1;

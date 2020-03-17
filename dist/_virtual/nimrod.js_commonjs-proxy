@@ -1,0 +1,5 @@
+import { __moduleExports as nimrod$1 } from '../node_modules/highlight.js/lib/languages/nimrod.js';
+
+
+
+export default nimrod$1;

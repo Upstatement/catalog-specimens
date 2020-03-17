@@ -1,0 +1,5 @@
+import { __moduleExports as plugins$1 } from '../node_modules/@babel/core/lib/config/files/plugins.js';
+
+
+
+export default plugins$1;

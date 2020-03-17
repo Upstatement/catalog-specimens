@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as foreignNames$2 from '../node_modules/dom-serializer/foreignNames.json.js';
+
+var foreignNames = getCjsExportFromNamespace(foreignNames$2);
+
+export default foreignNames;

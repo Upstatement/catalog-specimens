@@ -1,0 +1,5 @@
+import { __moduleExports as shell$1 } from '../node_modules/highlight.js/lib/languages/shell.js';
+
+
+
+export default shell$1;

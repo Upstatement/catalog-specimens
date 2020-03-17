@@ -1,0 +1,5 @@
+import { __moduleExports as domelementtype } from '../node_modules/domelementtype/index.js';
+
+
+
+export default domelementtype;

@@ -1,0 +1,5 @@
+import { __moduleExports as isValidTagOrAttributeName_1 } from '../node_modules/react-html-parser/lib/utils/isValidTagOrAttributeName.js';
+
+
+
+export default isValidTagOrAttributeName_1;

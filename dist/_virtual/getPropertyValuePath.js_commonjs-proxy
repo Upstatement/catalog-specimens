@@ -1,0 +1,5 @@
+import { __moduleExports as getPropertyValuePath_1 } from '../node_modules/react-docgen/dist/utils/getPropertyValuePath.js';
+
+
+
+export default getPropertyValuePath_1;

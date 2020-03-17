@@ -1,0 +1,5 @@
+import { __moduleExports as aspectj$1 } from '../node_modules/highlight.js/lib/languages/aspectj.js';
+
+
+
+export default aspectj$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as subunit$1 } from '../node_modules/highlight.js/lib/languages/subunit.js';
+
+
+
+export default subunit$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as handlebars$1 } from '../node_modules/highlight.js/lib/languages/handlebars.js';
+
+
+
+export default handlebars$1;

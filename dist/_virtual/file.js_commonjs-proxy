@@ -1,0 +1,5 @@
+import { __moduleExports as file$1 } from '../node_modules/@babel/core/lib/transformation/file/file.js';
+
+
+
+export default file$1;

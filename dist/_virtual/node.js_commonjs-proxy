@@ -1,0 +1,5 @@
+import { __moduleExports as node$1 } from '../node_modules/domhandler/lib/node.js';
+
+
+
+export default node$1;

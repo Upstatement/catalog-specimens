@@ -1,0 +1,5 @@
+import { __moduleExports as escapeStringRegexp } from '../node_modules/escape-string-regexp/index.js';
+
+
+
+export default escapeStringRegexp;

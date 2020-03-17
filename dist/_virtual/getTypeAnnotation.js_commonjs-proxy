@@ -1,0 +1,5 @@
+import { __moduleExports as getTypeAnnotation_1 } from '../node_modules/react-docgen/dist/utils/getTypeAnnotation.js';
+
+
+
+export default getTypeAnnotation_1;

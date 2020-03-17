@@ -1,0 +1,5 @@
+import { __moduleExports as traverse$1 } from '../node_modules/react-docgen/dist/utils/traverse.js';
+
+
+
+export default traverse$1;

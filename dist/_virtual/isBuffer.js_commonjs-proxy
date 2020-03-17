@@ -1,0 +1,5 @@
+import { __moduleExports as isBuffer_1 } from '../node_modules/lodash/isBuffer.js';
+
+
+
+export default isBuffer_1;

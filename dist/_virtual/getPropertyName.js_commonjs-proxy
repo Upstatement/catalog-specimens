@@ -1,0 +1,5 @@
+import { __moduleExports as getPropertyName_1 } from '../node_modules/react-docgen/dist/utils/getPropertyName.js';
+
+
+
+export default getPropertyName_1;

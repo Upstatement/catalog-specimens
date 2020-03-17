@@ -1,0 +1,5 @@
+import { __moduleExports as isMap_1 } from '../node_modules/lodash/isMap.js';
+
+
+
+export default isMap_1;

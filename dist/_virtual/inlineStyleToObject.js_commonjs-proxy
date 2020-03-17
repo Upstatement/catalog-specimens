@@ -1,0 +1,5 @@
+import { __moduleExports as inlineStyleToObject$1 } from '../node_modules/react-html-parser/lib/utils/inlineStyleToObject.js';
+
+
+
+export default inlineStyleToObject$1;

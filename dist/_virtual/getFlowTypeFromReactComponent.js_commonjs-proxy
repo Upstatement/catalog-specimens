@@ -1,0 +1,5 @@
+import { __moduleExports as getFlowTypeFromReactComponent$1 } from '../node_modules/react-docgen/dist/utils/getFlowTypeFromReactComponent.js';
+
+
+
+export default getFlowTypeFromReactComponent$1;

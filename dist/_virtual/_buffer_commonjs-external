@@ -1,0 +1,5 @@
+import buffer$1 from 'buffer';
+
+
+
+export default buffer$1;

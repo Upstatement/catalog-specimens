@@ -1,0 +1,5 @@
+import { __moduleExports as removeProperties_1 } from '../node_modules/@babel/types/lib/modifications/removeProperties.js';
+
+
+
+export default removeProperties_1;

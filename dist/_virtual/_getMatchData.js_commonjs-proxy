@@ -1,0 +1,5 @@
+import { __moduleExports as _getMatchData$1 } from '../node_modules/lodash/_getMatchData.js';
+
+
+
+export default _getMatchData$1;

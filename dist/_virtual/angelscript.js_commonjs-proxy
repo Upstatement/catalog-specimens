@@ -1,0 +1,5 @@
+import { __moduleExports as angelscript$1 } from '../node_modules/highlight.js/lib/languages/angelscript.js';
+
+
+
+export default angelscript$1;

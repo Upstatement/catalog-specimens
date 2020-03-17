@@ -1,0 +1,5 @@
+import { __moduleExports as isInteger_1 } from '../node_modules/lodash/isInteger.js';
+
+
+
+export default isInteger_1;

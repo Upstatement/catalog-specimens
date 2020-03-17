@@ -1,0 +1,5 @@
+import { __moduleExports as createUnionTypeAnnotation_1 } from '../node_modules/@babel/types/lib/builders/flow/createUnionTypeAnnotation.js';
+
+
+
+export default createUnionTypeAnnotation_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as gcode$1 } from '../node_modules/highlight.js/lib/languages/gcode.js';
+
+
+
+export default gcode$1;

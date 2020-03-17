@@ -1,0 +1,5 @@
+import { __moduleExports as displayNameHandler_1 } from '../node_modules/react-docgen/dist/handlers/displayNameHandler.js';
+
+
+
+export default displayNameHandler_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as scala$1 } from '../node_modules/highlight.js/lib/languages/scala.js';
+
+
+
+export default scala$1;

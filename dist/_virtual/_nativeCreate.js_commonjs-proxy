@@ -1,0 +1,5 @@
+import { __moduleExports as _nativeCreate$1 } from '../node_modules/lodash/_nativeCreate.js';
+
+
+
+export default _nativeCreate$1;

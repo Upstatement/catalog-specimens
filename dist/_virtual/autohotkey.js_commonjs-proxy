@@ -1,0 +1,5 @@
+import { __moduleExports as autohotkey$1 } from '../node_modules/highlight.js/lib/languages/autohotkey.js';
+
+
+
+export default autohotkey$1;

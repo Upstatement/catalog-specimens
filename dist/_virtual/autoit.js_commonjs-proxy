@@ -1,0 +1,5 @@
+import { __moduleExports as autoit$1 } from '../node_modules/highlight.js/lib/languages/autoit.js';
+
+
+
+export default autoit$1;

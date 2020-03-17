@@ -1,0 +1,5 @@
+import { __moduleExports as patternToRegex$1 } from '../node_modules/@babel/core/lib/config/pattern-to-regex.js';
+
+
+
+export default patternToRegex$1;

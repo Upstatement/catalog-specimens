@@ -1,0 +1,5 @@
+import { __moduleExports as transformation } from '../node_modules/@babel/core/lib/transformation/index.js';
+
+
+
+export default transformation;

@@ -1,0 +1,5 @@
+import { __moduleExports as main$1 } from '../node_modules/ast-types/main.js';
+
+
+
+export default main$1;

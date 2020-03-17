@@ -1,0 +1,5 @@
+import { __moduleExports as componentDocblockHandler_1 } from '../node_modules/react-docgen/dist/handlers/componentDocblockHandler.js';
+
+
+
+export default componentDocblockHandler_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as isRequiredPropType_1 } from '../node_modules/react-docgen/dist/utils/isRequiredPropType.js';
+
+
+
+export default isRequiredPropType_1;

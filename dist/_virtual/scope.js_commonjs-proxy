@@ -1,0 +1,5 @@
+import { __moduleExports as scope$1 } from '../node_modules/ast-types/lib/scope.js';
+
+
+
+export default scope$1;

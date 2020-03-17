@@ -1,0 +1,5 @@
+import { __moduleExports as isCore$1 } from '../node_modules/resolve/lib/is-core.js';
+
+
+
+export default isCore$1;

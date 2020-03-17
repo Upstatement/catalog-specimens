@@ -1,0 +1,5 @@
+import { __moduleExports as arduino$1 } from '../node_modules/highlight.js/lib/languages/arduino.js';
+
+
+
+export default arduino$1;

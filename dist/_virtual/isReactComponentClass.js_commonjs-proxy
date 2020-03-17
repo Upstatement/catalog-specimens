@@ -1,0 +1,5 @@
+import { __moduleExports as isReactComponentClass_1 } from '../node_modules/react-docgen/dist/utils/isReactComponentClass.js';
+
+
+
+export default isReactComponentClass_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as TagElementType_1 } from '../node_modules/react-html-parser/lib/elementTypes/TagElementType.js';
+
+
+
+export default TagElementType_1;

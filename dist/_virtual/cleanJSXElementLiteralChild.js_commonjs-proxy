@@ -1,0 +1,5 @@
+import { __moduleExports as cleanJSXElementLiteralChild_1 } from '../node_modules/@babel/types/lib/utils/react/cleanJSXElementLiteralChild.js';
+
+
+
+export default cleanJSXElementLiteralChild_1;

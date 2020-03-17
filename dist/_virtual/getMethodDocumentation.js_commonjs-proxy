@@ -1,0 +1,5 @@
+import { __moduleExports as getMethodDocumentation_1 } from '../node_modules/react-docgen/dist/utils/getMethodDocumentation.js';
+
+
+
+export default getMethodDocumentation_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as inherits_browser$1 } from '../node_modules/inherits/inherits_browser.js';
+
+
+
+export default inherits_browser$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as julia$1 } from '../node_modules/highlight.js/lib/languages/julia.js';
+
+
+
+export default julia$1;

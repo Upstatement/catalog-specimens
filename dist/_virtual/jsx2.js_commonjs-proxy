@@ -1,0 +1,5 @@
+import { __moduleExports as jsx$1 } from '../node_modules/@babel/generator/lib/generators/jsx.js';
+
+
+
+export default jsx$1;

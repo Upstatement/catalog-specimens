@@ -1,0 +1,5 @@
+import { __moduleExports as parseJsDoc_1 } from '../node_modules/react-docgen/dist/utils/parseJsDoc.js';
+
+
+
+export default parseJsDoc_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as groovy$1 } from '../node_modules/highlight.js/lib/languages/groovy.js';
+
+
+
+export default groovy$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as markdown$1 } from '../node_modules/highlight.js/lib/languages/markdown.js';
+
+
+
+export default markdown$1;

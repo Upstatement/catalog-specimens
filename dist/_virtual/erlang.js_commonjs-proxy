@@ -1,0 +1,5 @@
+import { __moduleExports as erlang$1 } from '../node_modules/highlight.js/lib/languages/erlang.js';
+
+
+
+export default erlang$1;

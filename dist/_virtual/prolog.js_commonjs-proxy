@@ -1,0 +1,5 @@
+import { __moduleExports as prolog$1 } from '../node_modules/highlight.js/lib/languages/prolog.js';
+
+
+
+export default prolog$1;

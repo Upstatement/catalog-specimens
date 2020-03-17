@@ -1,0 +1,5 @@
+import { __moduleExports as matlab$1 } from '../node_modules/highlight.js/lib/languages/matlab.js';
+
+
+
+export default matlab$1;

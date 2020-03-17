@@ -1,0 +1,5 @@
+import { __moduleExports as _basePropertyDeep$1 } from '../node_modules/lodash/_basePropertyDeep.js';
+
+
+
+export default _basePropertyDeep$1;

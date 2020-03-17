@@ -1,0 +1,5 @@
+import { __moduleExports as destroy_1 } from '../node_modules/htmlparser2/node_modules/readable-stream/lib/internal/streams/destroy.js';
+
+
+
+export default destroy_1;

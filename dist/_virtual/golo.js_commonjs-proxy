@@ -1,0 +1,5 @@
+import { __moduleExports as golo$1 } from '../node_modules/highlight.js/lib/languages/golo.js';
+
+
+
+export default golo$1;

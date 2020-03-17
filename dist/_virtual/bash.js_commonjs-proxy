@@ -1,0 +1,5 @@
+import { __moduleExports as bash$1 } from '../node_modules/highlight.js/lib/languages/bash.js';
+
+
+
+export default bash$1;

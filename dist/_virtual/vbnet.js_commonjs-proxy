@@ -1,0 +1,5 @@
+import { __moduleExports as vbnet$1 } from '../node_modules/highlight.js/lib/languages/vbnet.js';
+
+
+
+export default vbnet$1;

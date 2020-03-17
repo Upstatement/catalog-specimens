@@ -1,0 +1,5 @@
+import { __moduleExports as tap$1 } from '../node_modules/highlight.js/lib/languages/tap.js';
+
+
+
+export default tap$1;

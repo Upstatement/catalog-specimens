@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as xml$1 from '../node_modules/entities/maps/xml.json.js';
+
+var xmlMap = getCjsExportFromNamespace(xml$1);
+
+export default xmlMap;

@@ -1,0 +1,5 @@
+import { __moduleExports as flix$1 } from '../node_modules/highlight.js/lib/languages/flix.js';
+
+
+
+export default flix$1;

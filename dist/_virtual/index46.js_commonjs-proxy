@@ -1,0 +1,5 @@
+import { __moduleExports as gensync } from '../node_modules/gensync/index.js';
+
+
+
+export default gensync;

@@ -1,0 +1,5 @@
+import { __moduleExports as prependToMemberExpression_1 } from '../node_modules/@babel/types/lib/modifications/prependToMemberExpression.js';
+
+
+
+export default prependToMemberExpression_1;

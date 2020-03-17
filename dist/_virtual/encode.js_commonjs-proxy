@@ -1,0 +1,5 @@
+import { __moduleExports as encode$1 } from '../node_modules/dom-serializer/node_modules/entities/lib/encode.js';
+
+
+
+export default encode$1;

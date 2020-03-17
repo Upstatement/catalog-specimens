@@ -1,0 +1,5 @@
+import { __moduleExports as propTypeHandler_1 } from '../node_modules/react-docgen/dist/handlers/propTypeHandler.js';
+
+
+
+export default propTypeHandler_1;

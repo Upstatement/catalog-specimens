@@ -1,0 +1,5 @@
+import assert$1 from 'assert';
+
+
+
+export default assert$1;

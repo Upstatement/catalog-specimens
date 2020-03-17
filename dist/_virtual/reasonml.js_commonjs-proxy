@@ -1,0 +1,5 @@
+import { __moduleExports as reasonml$1 } from '../node_modules/highlight.js/lib/languages/reasonml.js';
+
+
+
+export default reasonml$1;

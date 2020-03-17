@@ -1,0 +1,5 @@
+import { __moduleExports as optionAssertions$1 } from '../node_modules/@babel/core/lib/config/validation/option-assertions.js';
+
+
+
+export default optionAssertions$1;

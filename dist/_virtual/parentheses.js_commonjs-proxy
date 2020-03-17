@@ -1,0 +1,5 @@
+import { __moduleExports as parentheses$1 } from '../node_modules/@babel/generator/lib/node/parentheses.js';
+
+
+
+export default parentheses$1;

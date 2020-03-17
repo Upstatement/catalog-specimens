@@ -1,0 +1,5 @@
+import { __moduleExports as context_1 } from '../node_modules/@babel/traverse/lib/path/context.js';
+
+
+
+export default context_1;

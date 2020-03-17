@@ -1,0 +1,5 @@
+import { __moduleExports as isSpecifierDefault_1 } from '../node_modules/@babel/types/lib/validators/isSpecifierDefault.js';
+
+
+
+export default isSpecifierDefault_1;

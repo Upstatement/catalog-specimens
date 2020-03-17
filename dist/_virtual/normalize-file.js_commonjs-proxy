@@ -1,0 +1,5 @@
+import { __moduleExports as normalizeFile_1 } from '../node_modules/@babel/core/lib/transformation/normalize-file.js';
+
+
+
+export default normalizeFile_1;

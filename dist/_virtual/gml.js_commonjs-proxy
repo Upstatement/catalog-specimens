@@ -1,0 +1,5 @@
+import { __moduleExports as gml$1 } from '../node_modules/highlight.js/lib/languages/gml.js';
+
+
+
+export default gml$1;

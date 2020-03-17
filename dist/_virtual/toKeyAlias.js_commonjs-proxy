@@ -1,0 +1,5 @@
+import { __moduleExports as toKeyAlias_1 } from '../node_modules/@babel/types/lib/converters/toKeyAlias.js';
+
+
+
+export default toKeyAlias_1;

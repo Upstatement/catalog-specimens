@@ -1,0 +1,5 @@
+import { __moduleExports as _baseRest$1 } from '../node_modules/lodash/_baseRest.js';
+
+
+
+export default _baseRest$1;

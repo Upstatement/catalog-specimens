@@ -1,0 +1,5 @@
+import { __moduleExports as _baseAssign$1 } from '../node_modules/lodash/_baseAssign.js';
+
+
+
+export default _baseAssign$1;

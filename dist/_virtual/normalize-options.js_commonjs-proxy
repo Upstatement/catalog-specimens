@@ -1,0 +1,5 @@
+import { __moduleExports as normalizeOptions$1 } from '../node_modules/resolve/lib/normalize-options.js';
+
+
+
+export default normalizeOptions$1;

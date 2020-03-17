@@ -1,0 +1,5 @@
+import { __moduleExports as tp$1 } from '../node_modules/highlight.js/lib/languages/tp.js';
+
+
+
+export default tp$1;

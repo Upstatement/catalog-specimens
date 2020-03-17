@@ -1,0 +1,5 @@
+import { __moduleExports as hasFlag } from '../node_modules/has-flag/index.js';
+
+
+
+export default hasFlag;

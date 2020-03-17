@@ -1,0 +1,5 @@
+import reactDom$1 from 'react-dom';
+
+
+
+export default reactDom$1;

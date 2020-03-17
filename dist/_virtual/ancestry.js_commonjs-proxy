@@ -1,0 +1,5 @@
+import { __moduleExports as ancestry_1 } from '../node_modules/@babel/traverse/lib/path/ancestry.js';
+
+
+
+export default ancestry_1;

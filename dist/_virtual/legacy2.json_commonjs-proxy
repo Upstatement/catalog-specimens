@@ -1,0 +1,6 @@
+import { getCjsExportFromNamespace } from './_commonjsHelpers.js';
+import * as legacy$1 from '../node_modules/dom-serializer/node_modules/entities/lib/maps/legacy.json.js';
+
+var require$$1 = getCjsExportFromNamespace(legacy$1);
+
+export default require$$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as code$1 } from '../node_modules/esutils/lib/code.js';
+
+
+
+export default code$1;

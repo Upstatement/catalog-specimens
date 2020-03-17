@@ -1,0 +1,5 @@
+import { __moduleExports as resolveGenericTypeAnnotation_1 } from '../node_modules/react-docgen/dist/utils/resolveGenericTypeAnnotation.js';
+
+
+
+export default resolveGenericTypeAnnotation_1;

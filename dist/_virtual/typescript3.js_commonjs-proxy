@@ -1,0 +1,5 @@
+import { __moduleExports as typescript$1 } from '../node_modules/highlight.js/lib/languages/typescript.js';
+
+
+
+export default typescript$1;

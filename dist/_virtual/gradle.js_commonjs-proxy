@@ -1,0 +1,5 @@
+import { __moduleExports as gradle$1 } from '../node_modules/highlight.js/lib/languages/gradle.js';
+
+
+
+export default gradle$1;

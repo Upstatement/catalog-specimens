@@ -1,0 +1,5 @@
+import { __moduleExports as generatePropsFromAttributes_1 } from '../node_modules/react-html-parser/lib/utils/generatePropsFromAttributes.js';
+
+
+
+export default generatePropsFromAttributes_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as pony$1 } from '../node_modules/highlight.js/lib/languages/pony.js';
+
+
+
+export default pony$1;

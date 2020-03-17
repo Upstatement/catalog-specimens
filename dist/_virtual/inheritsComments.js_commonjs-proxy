@@ -1,0 +1,5 @@
+import { __moduleExports as inheritsComments_1 } from '../node_modules/@babel/types/lib/comments/inheritsComments.js';
+
+
+
+export default inheritsComments_1;

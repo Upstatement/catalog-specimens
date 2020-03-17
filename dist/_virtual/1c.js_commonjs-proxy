@@ -1,0 +1,5 @@
+import { __moduleExports as _1c$1 } from '../node_modules/highlight.js/lib/languages/1c.js';
+
+
+
+export default _1c$1;

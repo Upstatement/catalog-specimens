@@ -1,0 +1,5 @@
+import { __moduleExports as dart$1 } from '../node_modules/highlight.js/lib/languages/dart.js';
+
+
+
+export default dart$1;

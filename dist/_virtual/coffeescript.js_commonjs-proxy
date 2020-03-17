@@ -1,0 +1,5 @@
+import { __moduleExports as coffeescript$1 } from '../node_modules/highlight.js/lib/languages/coffeescript.js';
+
+
+
+export default coffeescript$1;

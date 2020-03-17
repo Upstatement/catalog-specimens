@@ -1,0 +1,5 @@
+import { __moduleExports as populate$1 } from '../node_modules/@babel/template/lib/populate.js';
+
+
+
+export default populate$1;

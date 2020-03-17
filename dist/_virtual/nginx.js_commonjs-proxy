@@ -1,0 +1,5 @@
+import { __moduleExports as nginx$1 } from '../node_modules/highlight.js/lib/languages/nginx.js';
+
+
+
+export default nginx$1;

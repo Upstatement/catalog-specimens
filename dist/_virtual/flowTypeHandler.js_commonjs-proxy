@@ -1,0 +1,5 @@
+import { __moduleExports as flowTypeHandler_1 } from '../node_modules/react-docgen/dist/handlers/flowTypeHandler.js';
+
+
+
+export default flowTypeHandler_1;

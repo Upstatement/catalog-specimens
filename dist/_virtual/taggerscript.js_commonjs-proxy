@@ -1,0 +1,5 @@
+import { __moduleExports as taggerscript$1 } from '../node_modules/highlight.js/lib/languages/taggerscript.js';
+
+
+
+export default taggerscript$1;

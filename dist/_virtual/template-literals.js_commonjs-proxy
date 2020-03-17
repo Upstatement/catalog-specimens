@@ -1,0 +1,5 @@
+import { __moduleExports as templateLiterals$1 } from '../node_modules/@babel/generator/lib/generators/template-literals.js';
+
+
+
+export default templateLiterals$1;

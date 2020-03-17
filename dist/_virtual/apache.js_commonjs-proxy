@@ -1,0 +1,5 @@
+import { __moduleExports as apache$1 } from '../node_modules/highlight.js/lib/languages/apache.js';
+
+
+
+export default apache$1;

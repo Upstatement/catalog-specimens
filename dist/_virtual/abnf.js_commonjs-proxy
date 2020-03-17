@@ -1,0 +1,5 @@
+import { __moduleExports as abnf$1 } from '../node_modules/highlight.js/lib/languages/abnf.js';
+
+
+
+export default abnf$1;

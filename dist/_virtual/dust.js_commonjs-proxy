@@ -1,0 +1,5 @@
+import { __moduleExports as dust$1 } from '../node_modules/highlight.js/lib/languages/dust.js';
+
+
+
+export default dust$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as types$1 } from '../node_modules/ast-types/lib/types.js';
+
+
+
+export default types$1;

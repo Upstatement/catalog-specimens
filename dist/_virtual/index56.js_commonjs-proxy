@@ -1,0 +1,5 @@
+import { __moduleExports as resolver } from '../node_modules/react-docgen/dist/resolver/index.js';
+
+
+
+export default resolver;

@@ -1,0 +1,5 @@
+import { __moduleExports as arcade$1 } from '../node_modules/highlight.js/lib/languages/arcade.js';
+
+
+
+export default arcade$1;

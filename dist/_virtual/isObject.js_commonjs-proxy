@@ -1,0 +1,5 @@
+import { __moduleExports as isObject_1 } from '../node_modules/lodash/isObject.js';
+
+
+
+export default isObject_1;

@@ -6,7 +6,7 @@
     "build": "rollup -c rollup.config.js",
     "prepublish": "npm run build"
   },
-  "module": "dist/index.js",
+  "module": "dist/src/index.js",
   "license": "MIT",
   "peerDependencies": {
     "catalog": "^3.6.0",
@@ -25,6 +25,8 @@
     "@babel/core": "^7.8.6",
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
+    "@rollup/plugin-commonjs": "^11.0.2",
+    "@rollup/plugin-json": "^4.0.2",
     "@rollup/plugin-node-resolve": "^7.1.1",
     "rollup": "^2.0.6",
     "rollup-plugin-babel": "^4.4.0",

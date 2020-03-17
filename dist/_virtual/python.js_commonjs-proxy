@@ -1,0 +1,5 @@
+import { __moduleExports as python$1 } from '../node_modules/highlight.js/lib/languages/python.js';
+
+
+
+export default python$1;

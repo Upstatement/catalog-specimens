@@ -1,0 +1,5 @@
+import { __moduleExports as _getPrototype$1 } from '../node_modules/lodash/_getPrototype.js';
+
+
+
+export default _getPrototype$1;

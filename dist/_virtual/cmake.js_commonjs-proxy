@@ -1,0 +1,5 @@
+import { __moduleExports as cmake$1 } from '../node_modules/highlight.js/lib/languages/cmake.js';
+
+
+
+export default cmake$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as getMemberValuePath_1 } from '../node_modules/react-docgen/dist/utils/getMemberValuePath.js';
+
+
+
+export default getMemberValuePath_1;

@@ -1,0 +1,5 @@
+import { __moduleExports as propDocBlockHandler_1 } from '../node_modules/react-docgen/dist/handlers/propDocBlockHandler.js';
+
+
+
+export default propDocBlockHandler_1;

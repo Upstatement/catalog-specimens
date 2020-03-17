@@ -1,0 +1,5 @@
+import { __moduleExports as elixir$1 } from '../node_modules/highlight.js/lib/languages/elixir.js';
+
+
+
+export default elixir$1;

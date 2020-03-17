@@ -1,0 +1,5 @@
+import { __moduleExports as zephir$1 } from '../node_modules/highlight.js/lib/languages/zephir.js';
+
+
+
+export default zephir$1;

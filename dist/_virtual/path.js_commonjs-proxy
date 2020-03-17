@@ -1,0 +1,5 @@
+import { __moduleExports as path$1 } from '../node_modules/ast-types/lib/path.js';
+
+
+
+export default path$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as traverse_1 } from '../node_modules/@babel/types/lib/traverse/traverse.js';
+
+
+
+export default traverse_1;

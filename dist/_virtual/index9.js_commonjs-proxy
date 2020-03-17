@@ -1,0 +1,5 @@
+import { __moduleExports as elementTypes } from '../node_modules/react-html-parser/lib/elementTypes/index.js';
+
+
+
+export default elementTypes;

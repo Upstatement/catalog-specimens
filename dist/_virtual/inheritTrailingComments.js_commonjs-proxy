@@ -1,0 +1,5 @@
+import { __moduleExports as inheritTrailingComments_1 } from '../node_modules/@babel/types/lib/comments/inheritTrailingComments.js';
+
+
+
+export default inheritTrailingComments_1;

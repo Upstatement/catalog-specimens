@@ -1,0 +1,5 @@
+import { __moduleExports as toBindingIdentifierName_1 } from '../node_modules/@babel/types/lib/converters/toBindingIdentifierName.js';
+
+
+
+export default toBindingIdentifierName_1;

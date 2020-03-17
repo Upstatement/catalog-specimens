@@ -1,0 +1,5 @@
+import { __moduleExports as perl$1 } from '../node_modules/highlight.js/lib/languages/perl.js';
+
+
+
+export default perl$1;

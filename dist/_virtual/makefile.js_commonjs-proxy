@@ -1,0 +1,5 @@
+import { __moduleExports as makefile$1 } from '../node_modules/highlight.js/lib/languages/makefile.js';
+
+
+
+export default makefile$1;

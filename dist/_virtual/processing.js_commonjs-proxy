@@ -1,0 +1,5 @@
+import { __moduleExports as processing$1 } from '../node_modules/highlight.js/lib/languages/processing.js';
+
+
+
+export default processing$1;

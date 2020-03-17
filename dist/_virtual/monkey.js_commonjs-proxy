@@ -1,0 +1,5 @@
+import { __moduleExports as monkey$1 } from '../node_modules/highlight.js/lib/languages/monkey.js';
+
+
+
+export default monkey$1;

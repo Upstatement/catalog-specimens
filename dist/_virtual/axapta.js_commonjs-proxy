@@ -1,0 +1,5 @@
+import { __moduleExports as axapta$1 } from '../node_modules/highlight.js/lib/languages/axapta.js';
+
+
+
+export default axapta$1;

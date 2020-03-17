@@ -1,0 +1,5 @@
+import { __moduleExports as UnsupportedElementType_1 } from '../node_modules/react-html-parser/lib/elementTypes/UnsupportedElementType.js';
+
+
+
+export default UnsupportedElementType_1;

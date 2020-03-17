@@ -1,0 +1,5 @@
+import { __moduleExports as php$1 } from '../node_modules/highlight.js/lib/languages/php.js';
+
+
+
+export default php$1;

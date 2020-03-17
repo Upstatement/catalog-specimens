@@ -1,0 +1,5 @@
+import { __moduleExports as sql$1 } from '../node_modules/highlight.js/lib/languages/sql.js';
+
+
+
+export default sql$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as stan$1 } from '../node_modules/highlight.js/lib/languages/stan.js';
+
+
+
+export default stan$1;

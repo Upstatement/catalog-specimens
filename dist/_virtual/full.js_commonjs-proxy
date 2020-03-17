@@ -1,0 +1,5 @@
+import { __moduleExports as full$1 } from '../node_modules/@babel/core/lib/config/full.js';
+
+
+
+export default full$1;

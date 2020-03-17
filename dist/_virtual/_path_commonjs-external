@@ -1,0 +1,5 @@
+import path$1 from 'path';
+
+
+
+export default path$1;

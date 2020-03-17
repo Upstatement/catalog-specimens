@@ -1,0 +1,5 @@
+import { __moduleExports as llvm$1 } from '../node_modules/highlight.js/lib/languages/llvm.js';
+
+
+
+export default llvm$1;

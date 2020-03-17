@@ -1,0 +1,5 @@
+import { __moduleExports as HtmlParser_1 } from '../node_modules/react-html-parser/lib/HtmlParser.js';
+
+
+
+export default HtmlParser_1;

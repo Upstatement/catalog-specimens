@@ -1,0 +1,5 @@
+import { __moduleExports as go$1 } from '../node_modules/highlight.js/lib/languages/go.js';
+
+
+
+export default go$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as dockerfile$1 } from '../node_modules/highlight.js/lib/languages/dockerfile.js';
+
+
+
+export default dockerfile$1;

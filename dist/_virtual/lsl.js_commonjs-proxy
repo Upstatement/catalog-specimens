@@ -1,0 +1,5 @@
+import { __moduleExports as lsl$1 } from '../node_modules/highlight.js/lib/languages/lsl.js';
+
+
+
+export default lsl$1;

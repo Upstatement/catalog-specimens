@@ -1,0 +1,5 @@
+import { __moduleExports as keyword$1 } from '../node_modules/esutils/lib/keyword.js';
+
+
+
+export default keyword$1;

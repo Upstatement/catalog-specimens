@@ -1,0 +1,5 @@
+import { __moduleExports as cal$1 } from '../node_modules/highlight.js/lib/languages/cal.js';
+
+
+
+export default cal$1;

@@ -1,0 +1,5 @@
+import { __moduleExports as scss$1 } from '../node_modules/highlight.js/lib/languages/scss.js';
+
+
+
+export default scss$1;

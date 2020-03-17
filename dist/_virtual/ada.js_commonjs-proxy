@@ -1,0 +1,5 @@
+import { __moduleExports as ada$1 } from '../node_modules/highlight.js/lib/languages/ada.js';
+
+
+
+export default ada$1;
