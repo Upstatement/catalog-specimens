@@ -25,6 +25,8 @@ import ReactHtmlParser from 'react-html-parser';
 import showdown from 'showdown';
 import dayjs from 'dayjs';
 
+import "./index.css";
+
 const converter = new showdown.Converter();
 
 class Comment extends React.Component {

@@ -23,6 +23,8 @@ import React from 'react';
 // import PropTypes from 'prop-types';
 import { Specimen } from 'catalog';
 
+import "./index.css";
+
 class ColorBlock extends React.Component {
   hexToSixDigits(color) {
     return `#${color[1]}${color[1]}${color[2]}${color[2]}${color[3]}${color[3]}`;

@@ -19,6 +19,8 @@ import ReactHtmlParser from 'react-html-parser';
 import showdown from 'showdown';
 const reactDocs = require('react-docgen');
 
+import "./index.css";
+
 const converter = new showdown.Converter();
 
 class CodeDocs extends React.Component {

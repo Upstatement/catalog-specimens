@@ -3,17 +3,19 @@
   "version": "0.1.1",
   "description": "Custom specimens for Catalog",
   "scripts": {
-    "build": "babel src --out-dir dist/ --no-copy-ignored; webpack",
+    "build": "rollup -c rollup.config.js",
     "prepublish": "npm run build"
   },
-  "main": "dist/index.js",
+  "module": "dist/index.js",
   "license": "MIT",
   "peerDependencies": {
     "catalog": "^3.6.0",
-    "dayjs": "^1.8.16",
     "react": "^16.10.2",
+    "react-dom": "^16.11.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.16",
     "react-docgen": "^5.0.0-beta.1",
-    "react-dom": "^16.11.0",
     "react-highlight.js": "^1.0.7",
     "react-html-parser": "^2.0.2",
     "showdown": "^1.9.0"
@@ -23,11 +25,10 @@
     "@babel/core": "^7.8.6",
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
-    "babel-loader": "^8.0.6",
-    "css-loader": "^3.2.0",
-    "mini-css-extract-plugin": "^0.8.0",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "@rollup/plugin-node-resolve": "^7.1.1",
+    "rollup": "^2.0.6",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-postcss": "^2.4.1"
   },
   "repository": {
     "type": "git",

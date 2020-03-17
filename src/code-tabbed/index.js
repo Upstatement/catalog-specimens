@@ -23,6 +23,8 @@ import React from 'react';
 import { Specimen } from 'catalog';
 import Highlight from 'react-highlight.js';
 
+import "./index.css";
+
 class CodeTabbed extends React.Component {
   constructor(props) {
     super(props);
