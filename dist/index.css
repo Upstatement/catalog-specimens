@@ -1,0 +1,369 @@
+.catalog-specimen {
+  background: transparent;
+}
+.catalog-colorblock {
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.catalog-colorblock table {
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: 0;
+  width: 100%;
+}
+
+.catalog-colorblock thead td {
+  padding: 10px 0;
+}
+
+.catalog-colorblock thead td:first-child {
+  text-align: left;
+  vertical-align: bottom;
+}
+
+.catalog-colorblock td {
+    color: #999;
+    line-height: 1.25em;
+    width: 100px;
+}
+
+.catalog-colorblock td:first-child {
+  padding: 10px 0;
+  vertical-align: top;
+}
+
+.catalog-colorblock .colorblock-color-example {
+  height: 40px;
+  max-width: 100px;
+  width: 100%;
+}
+
+.catalog-colorblock .colorblock-color-name--heading {
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.catalog-colorblock .colorblock-color-name {
+  color: #000;
+  display: inline-block;
+  font-size: 12px;
+  padding-right: 3px;
+  padding-top: 6px;
+}
+
+.catalog-colorblock .colorblock-color-tests {
+  display: flex;
+  justify-content: space-around;
+  max-width: 100px;
+}
+
+.catalog-colorblock .colorblock-color-test {
+  align-items: center;
+  border-radius: 50%;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin: 8px 0 0;
+  text-align: center;
+  width: 40px;
+}
+
+.catalog-colorblock .colorblock-color-test.small-text {
+  font-size: 11px;
+}
+
+.catalog-colorblock .colorblock-color-test.large-text {
+  font-size: 20px;
+}
+
+.catalog-colorblock .colorblock-color-test--pass {
+  color: #399435;
+}
+
+.catalog-colorblock .colorblock-color-test--partial {
+  color: #ffcc33;
+}
+
+.catalog-colorblock .colorblock-color-test--fail {
+  color: #e02229;
+}
+
+.catalog-colorblock .colorblock-color-test--result {
+  align-items: start;
+}
+
+.catalog-codedocs {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  color: #000;
+  padding: 0;
+  width: 100%;
+}
+
+.catalog-codedocs p {
+  font-size: 16px;
+  line-height: 1.7rem;
+}
+
+.catalog-codedocs table {
+  border-collapse: collapse;
+  font-size: 15px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.catalog-codedocs thead {
+  color: #999;
+  font-weight: 500;
+}
+
+.catalog-codedocs thead td {
+  padding: 20px 20px;
+}
+
+.catalog-codedocs tbody {
+  background: transparent;
+}
+
+.catalog-codedocs tr {
+  background: transparent;
+  border-bottom: 1px solid #eee;
+}
+
+.catalog-codedocs tr:last-child {
+  border-bottom: 0;
+}
+
+
+.catalog-codedocs tbody td {
+  background: transparent;
+  padding: 25px 20px;
+  line-height: 1.4em;
+}
+
+
+.codeblock-container {
+  margin-top: -24px;
+  width: 100%;
+}
+
+.codeblock {
+  border: 1px solid #eee;
+  padding: 20px;
+}
+
+.codeblock,
+.codeblock-tab-buttons,
+.codeblock-snippets {
+  display: none;
+}
+
+.codeblock-snippets--visible,
+.codeblock--selected {
+  display: block;
+}
+
+.codeblock-tab-buttons--visible {
+  display: flex;
+}
+
+.codeblock-tab-button {
+  align-items: center;
+  background: #ddd;
+  color: black;
+  cursor: pointer;
+  display: flex;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  padding: 10px 30px;
+  text-transform: uppercase;
+}
+
+.codeblock-tab-button--selected {
+  background: #003B5C;
+  color: white;
+}
+
+.codeblock-footer {
+  display: flex;
+}
+
+.codeblock-toggle-button {
+  align-self: center;
+  background: none;
+  cursor: pointer;
+  margin-left: auto;
+  justify-self: flex-end;
+  font-size: 14px;
+  padding: 10px;
+  text-align: right;
+  text-decoration: underline;
+}
+
+pre {
+  color: #00263e;
+  font-family: monospace;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.4;
+  white-space: pre;
+  width: 100%;
+}
+
+/**
+ *
+ * COLOR THEMING
+ *
+**/
+
+.hljs {
+  color: #333;
+  display: block;
+  overflow-x: auto;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+.catalog-comment {
+  margin: 20px 0;
+  width: 100%;
+}
+
+.catalog-comment .catalog-comment--author {
+  align-items: center;
+  color: #003B5C;
+  display: flex;
+  flex: 2;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-bottom: 10px;
+}
+
+.catalog-comment .catalog-comment--avatar {
+  align-items: center;
+  background-color: #003B5C;
+  border-radius: 50%;
+  color: #FFF;
+  display: flex;
+  font-size: 12px;
+  font-weight: 500;
+  height: 45px;
+  justify-content: center;
+  letter-spacing: 0.12em;
+  margin-right: 15px;
+  min-width: 45px;
+  overflow: hidden;
+  transform: translateY(-2px);
+  width: 45px;
+}
+
+.catalog-comment .catalog-comment--details {
+  color: #000;
+}
+
+.catalog-comment .catalog-comment--date {
+  color: #999;
+  font-size: 0.95em;
+}
+
+.catalog-comment .catalog-comment--text {
+  flex: 2;
+}
+
+.catalog-comment .catalog-comment--text p {
+  font-size: 16px;
+  line-height: 1.5em;
+  margin: 0;
+}
