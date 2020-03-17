@@ -3,8 +3,8 @@ import React$1 from 'react';
 import { Specimen } from 'catalog';
 import ReactHtmlParser$1 from 'react-html-parser';
 import showdown$1 from 'showdown';
-import reactDocs$1 from 'react-docgen';
 
+var reactDocs = require('react-docgen');
 var converter = new showdown$1.Converter();
 
 var CodeDocs = /*#__PURE__*/function (_React$Component) {
@@ -25,7 +25,7 @@ var CodeDocs = /*#__PURE__*/function (_React$Component) {
           typescript = _this$props.typescript; // React Docgen infers type from file extension, so we fake a filename.
 
       var filename = "dummy.".concat(typescript ? '.tsx' : '.jsx');
-      var parsed = reactDocs$1.parse(catalog.page.imports[component], null, null, {
+      var parsed = reactDocs.parse(catalog.page.imports[component], null, null, {
         filename: filename
       });
       var rows = Object.keys(parsed.props).map(function (key) {
